@@ -27,7 +27,7 @@
   * [CoH plot](#coh-plot)
   * [ToA plot](#toa-plot)
   * [other plots](#other-plots)
-- [best equipments for specific purposes](#best-equipments-for-specific-purposes)
+- [best equipment for specific purposes](#best-equipment-for-specific-purposes)
 - [best ships for specific jobs](#best-ships-for-specific-jobs)
   * [drop collector](#drop-collector)
   * [reputation trader](#reputation-trader)
@@ -52,41 +52,41 @@
 
 ### guideline
 
-from the most important
+From the most important
 
 1. vanilla, no cheating, no modding, no editing
 1. make as few irreversible decisions as possible
 1. make as many available options as possible
 1. as much automatic as possible
-1. keep the efficiency as high as possible to leviate cpu stress
+1. keep the efficiency as high as possible to alleviate CPU stress
 
 ### outline
 
 - ability to produce every ship, ware, station module
   - with the exception of useless ones (like Prometheus because I won't use these ships in any situations anyway)
-  - reputaion for factions
+  - reputation for factions
     - reputation fix for below -10
       - station criminal traffic shooting
     - reputation fix for above -10
       - fast ship trading
-    - yiki reputation by push the plot to the 
+    - Yaki reputation by pushing the plot to the 
 - as many inventory items as available
   - xenon gate drop collection
     - xenon gate defense
     - xenon gate drop collector
 
-## general stratagy
+## general strategy
 
 ### game basic flow
 
 1. do Hatikva, CoH plots until Yaki reputation level 0
-1. set up drop collectors (hours into game)
-1. set up HQ research (hours into game)
-1. set up reputation traders (hours into game)
-1. fly-by board Asgards and set up gate defense (several hours into game)
-1. start setting up miners (several hours into game)
-1. start setting up HQ production modules (a day into game)
-1. set up shipyards blocking ships (a day into game)
+1. set up drop collectors (hours into the game)
+1. set up HQ research (hours into the game)
+1. set up reputation traders (hours into the game)
+1. fly-by board Asgards and set up gate defense (several hours into the game)
+1. start setting up miners (several hours into the game)
+1. start setting up HQ production modules (a day into the game)
+1. set up shipyards blocking ships (a day into the game)
 1. seta, finally (feel one can count this as the end game, about 2 days into the game)
 1. do terraforming
 
@@ -94,8 +94,8 @@ from the most important
 
 - hard limit: if hull<75%, shield<25%, then bail check every 30 seconds
 - your own max hull points matter, the bailing chance *= (target_max_hull/your_max_hull)
-- check point can be revealed by communicating with the pilot, if they respond then the next damage/surrender command will cause bail check
-- Yaki Kurokami and Moreya are great bailing targets early game, just attack from the subordinates (usually casaded so make sure you are not attacking any leader) and they will not fight back
+- checkpoint can be revealed by communicating with the pilot, if they respond then the next damage/surrender command will cause a bail check
+- Yaki Kurokami and Moreya are great bailing targets early game, just attack from the subordinates (usually cascaded so make sure you are not attacking any leader) and they will not fight back
 
 see also
 
@@ -104,12 +104,12 @@ see also
 
 ### boarding
 
-- prepare a ship with large crew, for example Shuyaku Vanguard, disarm all turrents, remove all cargo drones.
-- buy marines from VIG shipyard, note thet crew can be transferred over distance so you don't the boarding ship be the actual buyer
+- prepare a ship with a large crew, for example, Shuyaku Vanguard, disarm all turrets, and remove all cargo drones.
+- buy marines from VIG shipyard, note that crew can be transferred over distance so you don't have the boarding ship be the actual buyer
   - transfer all the marines with 1.3 star and sell the rest, repeat until you have a full ship of 1.3 star marines
 - good boarding targets include TER intervention corps Asgard and Tokyo, petrol Asgard as the Moon gate (to Venus)
-- Treval mode fly by target right beneath its belly, pause, lauch marines with both conditions set to 'very strong', unpause. If you bump into the target, pause and deactivate fly assistance then unpause
-- remove the boarding command from the ship, fly to safe area
+- treval mode fly by target right beneath its belly, pause, launch marines with both conditions set to 'very strong', unpause. If you bump into the target, pause and deactivate fly assistance then unpause
+- remove the boarding command from the ship, fly to a safe area
 
 see also
 
@@ -117,33 +117,33 @@ see also
 
 ### faction reputation fix
 
-A lot of equipment are locked behind the repuatation, so one need to unlock these reputation fast.
+A lot of equipment is locked behind the reputation, so one needs to unlock these reputations fast.
 
 #### reputation fix for below -10
 
-Find a station, or better several stations close to each other, you need to wait until a criminal traffic pop up then shoot it. The criminal vesssel is spawed on interval, and stations nearby will spawn on seperate timers, but you need to get there to 'discover' the target.
+Find a station, or better several stations close to each other, you need to wait until criminal traffic pops up and then shoot it. The criminal vessel is spawned on intervals, and stations nearby will spawn on separate timers, but you need to get there to 'discover' the target.
 
 #### reputation fix for >= -9
 
 ##### manual way
 
-If you want to raise reputation fast, 100 energy cells sold one by one will raise the reputation from 0-11 in several minutes.
+If you want to raise your reputation fast, 100 energy cells sold one by one will raise the reputation from 0-11 in several minutes.
 
 ##### automatic way
 
-Get a fast ship, set on repeat orders to sell wares one at a time, e.g. buy 10 energy cells and sell one at a time. Though, buy one sell one seems efficient enough if the distance between stations is not far. Can configure multiple selling target station to avoid failling to sell. This will level from 0 to 30 in about 3 days.
+Get a fast ship, set on repeat orders to sell wares one at a time, e.g. buy 10 energy cells and sell one at a time. However, buy one sell one seems efficient enough if the distance between stations is not far. Can configure multiple selling target stations to avoid failing to sell. This will level from 0 to 30 in about 3 days.
 
 ### drop collection
 
-This is the best investiment one can made in the game, though quite risky if the ship assigned is not fast/tanky enough.
+This is the best investment one can make in the game, though quite risky if the ship assigned is not fast/tanky enough.
 
 It will give you:
 
-- one of your main income sources, enen in late game
+- one of your main income sources, even in late game
   - programmable field array to sell for quite a fortune
-  - spacefly eggs for crafting spacefly cavier for quite a fortune
+  - spacefly eggs for crafting spacefly caviar for quite a fortune
 - basic modifications
-- modification components (consummables)
+- modification components (consumables)
 - seta components
 - materials needed for unlocking black markets
 - ...
@@ -151,8 +151,8 @@ It will give you:
 It requires you 
 
 - set up a S/M ship on repeat orders on 'collect drops' near a Xenon gate
-  - add a command to dock at the nearest station / your asgard if you have one defending this gate to maximize efficiency / ensure safety
-  - do not let the pilot use judgement, override this so the pilot always flee under attack
+  - add a command to dock at the nearest station / your Asgard if you have one defending this gate to maximize efficiency / ensure safety
+  - do not let the pilot use judgment, override this so the pilot always flees under attack
 - guarantee Xenon production (do not let NPC factions destroy Xenon logistics)
 
 The best sector for this is Hatikva's Choice, but almost every Xenon gate will do just fine.
@@ -164,32 +164,32 @@ So that Xenon does not destroy core stations like Equipment Dock in Family Tkr.
 It will give you:
 
 - safer working environment for your drop collector
-- guarantee a place to by/repair/update your ships before you have your own facility
+- guarantee a place to buy/repair/update your ships before you have your own facility
 
 It requires you
 
 - have an Asgard stationed there
-- or at least, when it's an emergency, any personal piloted M ship to disable the invader's engine and turret so that local reinforcements can finish it
+- or at least, when it's an emergency, any personally piloted M ship to disable the invader's engine and turret so that local reinforcements can finish it
 
 An Asgard may not be enough. You may need to teleport there to save it.
 
-A defense station may be the best defender, but is rather inflexible (say if you want to remove the block and let Xenon pour in). I may do this in future.
+A defense station may be the best defender, but is rather inflexible (say if you want to remove the block and let Xenon pour in). I may do this in the future.
 
 ### shipyard block
 
-If not blcoked, NPC faction will produce capital ships threatening Xenon or their own neighbours. Buy/dock ships (usuablly 2 L 1 XL) in their fabrication bay to block their production.
+If not blocked, NPC faction will produce capital ships threatening Xenon or their own neighbors. Buy/dock ships (usually 2 L 1 XL) in their fabrication bay to block their production.
 
 - pause game right at ship construction 100% finished
 - issue a dock and wait command and remove the undocking command
 - fire/remove the pilot
 
-Occationally fired/removed pilot may still managed to undock the ship before fired/removed. You will need to redock the ship (best in person) to the dock. Do not request docking permission, just fly into the intended fabrication bay and the correct docking permission will be auto granted.
+Occasionally fired/removed pilot may still manage to undock the ship before being fired/removed. You will need to redock the ship (best in person) to the dock. Do not request docking permission, just fly into the intended fabrication bay and the correct docking permission will be auto-granted.
 
 A ship with no pilot (excluding yourself) will not be removed in any way, thus a reliable block on the shipyard, much better than production module hacking or other methods.
 
 FAF cannot build their pirate ships in this way, which is a highly preferable side effect, and saves one's trouble to do Split plots.
 
-But SCA ships can still be there, because they are spawned.
+But SCA ships can still be there because they are spawned.
 
 ## full loop factory
 
@@ -202,29 +202,29 @@ It will give you:
 It requires you
 
 - use your own builder
-  - for 30 building drones so construcntion is proceeded in 100% efficiency
+  - for 30 building drones so construction is proceeded with 100% efficiency
   - for 219 crew super fast training
 - have your own miners
-  - for saving the cost and make the resources reliable
+  - for saving cost and making the resources reliable
 - build ships and sell them manually to shipyards for controlled results / best credits
-  - If you let NPC buy ships directly, they will actully use the ships, causing potential regional problems. And they pay 20%-30% only.
+  - If you let NPC buy ships directly, they will actually use the ships, causing potential regional problems. And they pay 20%-30% only.
   - If you sell the ships to a shipyard, ships will fly there and be recycled into materials, and you get full (selling price) credits
 
-I build all the module to my HQ.
+I build all the modules to my HQ.
 
-The reason to set up only one factory, at the price of slow construction, is to avoid any kind of logistic nightmare. The ships and factory numbers will be reduced to minimum for the same amout of ware produced, as obejctives require. Other than that, the entire sturucture can be teleported anywhere.
+The reason to set up only one factory, at the price of slow construction, is to avoid any kind of logistic nightmare. The ships and factory numbers will be reduced to a minimum for the same amount of ware produced, as objectives require. Other than that, the entire structure can be teleported anywhere.
 
-The only potential loss of such a strategy is inability to utilize the mineral resources of other then local areas, and potential GPU performance issue when at HQ.
+The only potential loss of such a strategy is the inability to utilize the mineral resources of other than local areas, and potential GPU performance issues when at HQ.
 
-To avoid troublesome planning, I put all my modules (except docking modules) at position 0,0,0 via xml editing. This yields very clean plan (both in game and in xml), and almost all modules are hidden in the HQ astroid. I can not measure the exact performance issue caused by z-fighting, but 200 modules there seems not a problem for GTX2080.
+To avoid troublesome planning, I put all my modules (except docking modules) at position 0,0,0 via xml editing. This yields a very clean plan (both in game and in xml), and almost all modules are hidden in the HQ asteroid. I can not measure the exact performance issue caused by z-fighting, but 400 modules there seems not a problem for GTX2080.
 
 The plan is available at `constructionplan/7.xml`.
 
 The docking piers are put in such a way to allow as many to function as possible. (6 faces of the cube considered)
 
-Then, use terran docking piers and fabrication modules for aesthetic reasons.
+Then, use TER docking piers and fabrication modules for aesthetic reasons.
 
-Build in certain sequence to optimize building time production, mostly in a stage by stage manner.
+Build in a certain sequence to optimize building time production, mostly in a stage-by-stage manner.
 
 see also
 
@@ -232,11 +232,11 @@ see also
 
 ### workforce
 
-Workforce can be seen as providing 20-50% of the output (at all production stages!) with ice, which is easy to mine and quite abundant.
+The workforce can be seen as providing 20-50% of the output (at all production stages!) with ice, which is easy to mine and quite abundant.
 
-The down side is that, unlike silicon and ore which will not be consumed when the module is not producing, ice will be consumed to support workfoce continuously. It is fair though, as the employees cannot be fired simply because the factory is not working. It is not fair that, the workforce will not shift themselves to those actual producing modules.
+The downside is that, unlike silicon and ore which will not be consumed when the module is not producing, ice will be consumed to support workfoce continuously. It is fair though, as the employees cannot be fired simply because the factory is not working. It is not fair that the workforce will not shift themselves to those actual producing modules.
 
-Use Argon workforce for long term benefits.
+Use Argon workforce for long-term benefits.
 
 see also
 
@@ -246,16 +246,16 @@ see also
 
 - entry index does not matter, the sequence matters
   - import then export the plan will generate correct indices
-- 0 value property can be omitted, and will be automatically ommited when exporting from the game
+- 0 value property can be omitted and will be automatically omitted when exporting from the game
 - a basic cross connector is a 400m length cube centered at (200,200,200), most modules follow the 400m grid
 - snap in game does not guarantee precise alignment, you will notice small error like 0.0052 in the xml
-- exact marco with exact the same offset will be preserved, otherwise will be teared down and rebuilt
+- exact marco with exactly the same offset will be preserved, otherwise will be torn down and rebuilt
 
 ## terraforming
 
-The actual usage of terraforming is to cause a need for production... So you can still play the game if you are not war with someone. but there are benefits too, the most important ones being the ability to train pilots (although troublesome), and ability to do start-up funding.
+The actual usage of terraforming is to cause a need for production... So you can still play the game if you are not at war with someone. but there are benefits too, the most important ones being the ability to train pilots (although troublesome), and the ability to do start-up funding.
 
-In my current gameplay I do not have much sources of credit income, so start-up funding might just be the way for me to earn my blueprints.
+In my current gameplay, I do not have many sources of credit income, so start-up funding might just be the way for me to earn my blueprints.
 
 see also
 
@@ -265,19 +265,19 @@ see also
 
 High school mathematics.
 
-The expectation output (of unit investiment) is
+The expected output (of unit investment) is
 
 $$
 E(X) = 0.1 \times 15 = 1.5 > 1
 $$
 
-Seems fine, but there is a trick. The investiment amount is not entirely controllable by the player. It is in fact, fixed to 10% of the player cash amount when the mission is provided. This mechanic actually lowers one's ability to profit and adds some problem, because you will now have to own 10 times more to be able to invest the same amount.
+Seems fine, but there is a trick. The investment amount is not entirely controllable by the player. It is in fact, fixed to 10% of the player's cash amount when the mission is provided. This mechanic actually lowers one's ability to profit and adds some problems, because you will now have to own 10 times more to be able to invest the same amount.
 
 Under such terms, there is a 35% chance that a player fails 10 times in a streak (I'm currently on 20 and decided to look into the problem) and the final pay does not cover their loss.
 
-However, given a proper strategy, that one always invests an calculated amount so as to always win back the summ of former losses, one can always make money in the end.
+However, given a proper strategy, that one always invests a calculated amount so as to always win back the sum of former losses, then one can always make money in the end.
 
-To achieve the above stratagy, between two investiment cycles, the player need to make their total cash 1+all_previous_loss/15 the next time.
+To achieve the above strategy, between two investment cycles, the player needs to make their total cash 1+all_previous_loss/15 the next time.
 
 <details>
 
@@ -330,15 +330,15 @@ To give a sense, here is $a_1$ to $a_{40}$.
 | 9  | 1.054595 | 19 | 1.127048 | 29 | 1.204479 | 39 | 1.28723  |
 | 10 | 1.061625 | 20 | 1.134562 | 30 | 1.212509 | 40 | 1.295812 |
 
-So, a proper investiment plan would be to put only a fraction of your total cash as your initial flown cash, then act according to the strategy. How much? Depends on how much risk you want to take. To prepare a streak of 10, 20, 30, 40 failed investiments, with the probability of 0.3487, 0.1216 (me right here), 0.0424, 0.0148 accordingly, the additional 1.031, 2.132, 3.309, 4.567 unit of cash should be frozen somewhere. Note this does not take your passive income into consideration.
+So, a proper investment plan would be to put only a fraction of your total cash as your initial flown cash, then act according to the strategy. How much? Depends on how much risk you want to take. To prepare a streak of 10, 20, 30, 40 failed investments, with the probability of 0.3487, 0.1216 (me right here), 0.0424, 0.0148 accordingly, the additional 1.031, 2.132, 3.309, 4.567 unit of cash should be frozen somewhere. Note this does not take your passive income into consideration.
 
-Say you want a 87.85% secure investment (20 fail chances), you need to put 1/(1+2.132) total cash in the account, then before getting next investment offer, refill the account to next status.
+Say you want a 87.85% secure investment (20 fail chances), you need to put 1/(1+2.132) total cash in the account, then before getting the next investment offer, refill the account to the next status.
 
-Once you make a successful investiment, the entire strategy is reset and you'll snowball exponentially.
+Once you make a successful investment, the entire strategy is reset and you'll snowball exponentially.
 
-This is meant to be an interesting mechainic, as credits have almost no usage in late game, for example when you are terraforming (unless you actually rushed here for this start-up funding like me... good luck).
+This is meant to be an interesting mechanism, as credits have almost no usage in late game, for example when you are terraforming (unless you actually rushed here for this start-up funding like me... good luck).
 
-On the other hand, save spam should work, but in a special way. According to some speculation and my own observation, the consecutive results may be only updated after a success mission. This seems to be some deliberate anti save-spam mechanic, at least it makes sure you cannot have a success every time. So save spam (before getting the offer) but use very little account money, and revert to the latest save when the result is a success and put all you have in your own accont.
+On the other hand, saving spam should work, but in a special way. According to some speculation and my own observation, the consecutive results may be only updated after a successful mission. This seems to be some deliberate anti-save-spam mechanic, at least it makes sure you cannot have a success every time. So save spam (before getting the offer) but use very little account money, and revert to the latest save when the result is a success and put all you have in your own account.
 
 I succeeded on the 22nd trial.
 
@@ -366,17 +366,17 @@ see also
 
 I do this plot to unlock Yaki reputation.
 
-Push until you can dock on the Yaki pirate station, so that you can raise the reputation with trading and consequently unlock their blueprints, stop right here to preserve the ship with unique clock
+Push until you can dock on the Yaki pirate station so that you can raise the reputation with trading and consequently unlock their blueprints, stop right here to preserve the ship with a unique cloak
 
 - one irreversible decision and one easy-to-miss opportunity
   - giving Litigious Rodent to Bosa results in the Moreya to have the cloak with no pilot available on board (until finish the plot which I intend not)
-  - giving Litigious Rodent to TSS reuslts in a Katana to have the cloak, and you can assign a pilot before undocking. The assigned pilot can not excute any command though. They will have blue identity like allied pilots, but you can communicate them correctly. You can reassign the pilot elsewhere later, but none can be assigned here from now on. If you exchange pilots with other ships, the one to be exchanged to the Katana will vanish.
+  - giving Litigious Rodent to TSS results in a Katana to have the cloak, and you can assign a pilot before undocking. The assigned pilot can not execute any command though. They will have a blue identity like allied pilots, but you can communicate with them correctly. You can reassign the pilot elsewhere later, but none can be assigned here from now on. If you exchange pilots with other ships, the one to be exchanged to the Katana will vanish.
 
-The choice boils down to, whether to put the cloak on a Moreya or a Katana. I have blueprints of both, so nothing special here. Moreya is the fastest S ship that can install a TER engine, and Katana is the fastest M ship that can install a TER engine. Both have distinguished ship paint, and the Katana gets a slightly better one, but this is no important reason. It's better to think in a perspective, that who gets more benefit from such a cloak.
+The choice boils down to, whether to put the cloak on a Moreya or a Katana. I have blueprints of both, so nothing special here. Moreya is the fastest S ship that can install a TER engine, and Katana is the fastest M ship that can install a TER engine. Both have distinguished ship paint, and the Katana gets a slightly better one, but this is no important reason. It's better to think from the perspective, of who gets more benefit from such a cloak.
 
-In real life, high speed scout does not need a cloak, the speed is its best protection, so is Moreya.
+In real life, a high-speed scout does not need a cloak, speed is its best protection, and so is Moreya.
 
-The Katana, on the other hand, can achieve things a Moreya cannot do, for example, survive friendly fire when accidently activating the cloak near allies, and can kill almost any ship with less effort than a Moreya (How do you even kill a battleship with a Moreya?).
+The Katana, on the other hand, can achieve things a Moreya cannot do, for example, survive friendly fire when accidentally activating the cloak near allies, and can kill almost any ship with less effort than a Moreya (How do you even kill a battleship with a Moreya?).
 
 Katana it is.
 
@@ -390,9 +390,9 @@ see also
 
 I do this plot to get Astrid.
 
-The only decison to be made here is whether to side with the twins or against them. The latter option gives the blueprint, which is not available otherwise.
+The only decision to be made here is whether to side with the twins or against them. The latter option gives the blueprint, which is not available otherwise.
 
-I need to finish the plot to get the Astrid, speaking of which is so ugly and not quite useful. A Moreya/Katana can do a better job moving everywhere and be used as a personal ship when required, in comparision the manuvability of Astrid is too aweful to be used personaly. The best use might be to quickly fly and dock on a unteleportable station so I can teleport there fast, even then it's a M ship thus too far away from the telepotation room.
+I need to finish the plot to get the Astrid, speaking of which is so ugly and not quite useful. A Moreya/Katana can do a better job moving everywhere and be used as a personal ship when required, in comparison the maneuverability of Astrid is too awful to be used personally. The best use might be to quickly fly and dock on a unteleportable station so I can teleport there fast, even then it's a M ship thus too far away from the teleportation room.
 
 see also
 
@@ -400,11 +400,11 @@ see also
 
 ### other plots
 
-I put all other plots, together with the remaining part of the CoH plot on hold. These plots tend to have irreversible decisions with little benefits to my goals.
+I put all other plots, together with the remaining part of the CoH plot on hold. These plots tend to have irreversible decisions with little benefit to my goals.
 
-For example, Paranid plot will unlock BUC reputation which I tend to avoid so I can keep harvesting exceptional chasis mod at no loss.
+For example, Paranid plot will unlock BUC reputation which I tend to avoid so I can keep harvesting exceptional chassis mod at no loss.
 
-## best equipments for specific purposes
+## best equipment for specific purposes
 
 - shield
   - TER
@@ -414,15 +414,15 @@ For example, Paranid plot will unlock BUC reputation which I tend to avoid so I 
     - best capacity with worst regen rate
 - engine
   - TER
-    - exclusively best treval boost, much better than any other engines
+    - exclusively best travel boost, much better than any other engines
   - SPL
-    - exclusively best combat MK4 for best crusing speed
-- turrent
+    - exclusively best combat MK4 for best cruising speed
+- turret
   - PAR L plasma: best IS/OOS anti capital
-  - ARG M flak: best IS anti fighter, good OOS performance
+  - ARG M flak: best IS anti-fighter, good OOS performance
 - weapon
   - TER M meson stream MK2: best OOS, very hard to hit fighters in player's control, barely acceptable IS
-  - TER M proton barage: second best for TER ship OOS, accecptable IS
+  - TER M proton barrage: second best for TER ship OOS, acceptable IS
 
 see also
 
@@ -433,7 +433,7 @@ see also
 
 ### drop collector
 
-Large ships collect drops with very slow drones, which is not an option. No ship can promise survivability near a Xenon gate, especially a S/M one. It requires to be fast (cruising speed) enough to be able to flee, and tanky enough before it managed to get away.
+Large ships collect drops with very slow drones, which is not an option. No ship can promise survivability near a Xenon gate, especially a S/M one. It requires to be fast (cruising speed) enough to be able to flee, and tanky enough before it manages to get away.
 
 - Katana
   - exceptional mod: Nanotube
@@ -452,7 +452,7 @@ Large ships collect drops with very slow drones, which is not an option. No ship
   - high level pilot
   - high level crew
 
-Make no mistake here, any ship, even the starting Elite Vanguard can do the job, just very likely to die fast. A non-modded Katana with SPL MK3 is acceptable in early game.
+Make no mistake here, any ship, even the starting Elite Vanguard can do the job, just very likely to die fast. A non-modded Katana with SPL MK3 is acceptable in the early game.
 
 ### reputation trader
 
@@ -471,7 +471,7 @@ Make no mistake here, any ship, even the starting Elite Vanguard can do the job,
     - TER
 - Pegeasus, if you cannot get (enough) Moreyas yet
 - Katana, proper shields for traveling to Yaki in deep Xenon territory
-  - exceptional mod: Shroud, analogue to reallife stealth
+  - exceptional mod: Shroud, analog to reallife stealth
   - engine
     - TER combat
     - basic mod: Reaver
@@ -498,7 +498,7 @@ Make no mistake here, any ship, even the starting Elite Vanguard can do the job,
 
 A typical Crane Sentinel will mine and sell a full shipload in about 20-25 minutes, which is highly efficient. 15 mineral + 2 gas such miners can support my 480 module HQ with redundancy.
 
-The logic of choosing cargo over speed, is that despite the mining process is mostly bottlenecked by the delivery process, the delivery process is not completely controlled by top travel speed. The rotation after each jump gate, the docking process, the ware transferring process, can not be reduced by faster speed. Now almost all large miners have a similar cargo*speed, then the one with the largest cargo wins. Extra advantages include very good shields and weapons against Kha'ak.
+The logic of choosing cargo over speed is that despite the mining process being mostly bottlenecked by the delivery process, the delivery process is not completely controlled by top travel speed. The rotation after each jump gate, the docking process, and the ware transferring process can not be reduced by faster speed. Now almost all large miners have a similar cargo*speed, then the one with the largest cargo wins. Extra advantages include very good shields and weapons against Kha'ak.
 
 The theory is validated by experiments.
 
@@ -533,7 +533,7 @@ see also
   - exceptional mod: Nanotube
   - engine
     - TER combat
-      - baisc mod: Reaver
+      - basic mod: Reaver
 
 ### gate defender
 
@@ -549,13 +549,13 @@ see also
       - basic mod: Buckler
   - weapon
     - ATF XL beam
-      - basic mod: Piercer, for one-shot I without creating cooling issue
+      - basic mod: Piercer, for one-shot I without creating a cooling issue
     - TER L beam
     - ARG M flak
 
-### personal battle ship
+### personal battleship
 
-**damage, manuvability, speed, tank**
+**damage, maneuverability, speed, tank**
 
 - Asgard
   - exceptional mod: Nanotube
@@ -642,21 +642,21 @@ see also
   - drop collector
 - advanced mods
   - Prometheus hunting
-    - difficult because BUC will destroy your satellites so maybe hard to find these ships
+    - difficult because BUC will destroy your satellites so may be hard to find these ships
       - as an exception, Morning Star IV lets you deploy a lot of satellites, so hunting Prometheus here is easier
-      - automatic farming could be lowly efficient because most of the time these ships are cloaked
+      - automatic farming could be less efficient because most of the time these ships are cloaked
 - exceptional mods
-  - initial spawned Prometheus sometimes carry full exceptional mods
+  - initial spawned Prometheus sometimes carries full exceptional mods
   - chasis
-    - all BUC ships can be destroyed at no consequece to harvest exceptional chasis mods, so put some M ships on defense position with fire authorization set to ruthless, and a drop collector to farm on the same spot
+    - all BUC ships can be destroyed at no consequence to harvest exceptional chassis mods, so put some M ships on defense position order with fire authorization set to ruthless, and a drop collector to farm on the same spot
   - weapon
     - guild/war missions
   - shield
     - guild/war missions
-    - war missions that reward a L miner guarantee an exceptional shield mod
+    - war missions that reward an L miner guarantee an exceptional shield mod
   - engine
-    - guild/war missions, mostly often those need you to deploy resource probes
-      - have shipd stationed at the deploying position to facilitate next time's operation, as the location pool is quite limited for these missions
+    - guild/war missions, most often need you to deploy resource probes
+      - have ships stationed at the deploying position to facilitate next time's operation, as the location pool is quite limited for these missions
 
 see also
 
@@ -666,7 +666,7 @@ see also
 
 ### numerical target
 
-- chasis
+- chassis
   - Nanotube, every 10 rolls
     - 0.22 drag
   - Shroud
@@ -679,7 +679,7 @@ see also
     - 0.65 delay
   - Traction for M and above ship, a lot of rolls (no consumption)
     - 0.69 rate
-  - Kite/Cast (these two are exact the same mod)
+  - Kite/Cast (these two are exactly the same mod but one guarantees capacity and another rate)
     - 0.19 capacity
     - 0.19 rate
 - weapon
