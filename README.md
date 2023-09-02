@@ -279,8 +279,6 @@ However, given a proper strategy, that one always invests a calculated amount so
 
 To achieve the above strategy, between two investment cycles, the player needs to make their total cash 1+all_previous_loss/15 the next time.
 
-<details>
-
 $$
 a_1 = 1, p = \cfrac{0.1}{15}, s_n = \sum_{i=1}^{n}{a_i}
 $$
@@ -308,8 +306,6 @@ $$
 $$
 \therefore a_n = (1+\cfrac{1}{p})(1+p)^{n-1} - (1+\cfrac{1}{p})(1+p)^{n-2}, n>=2
 $$
-
-</details>
 
 $$
 \therefore a_n = 151 \times ((\cfrac{151}{150})^{n-1} - (\cfrac{151}{150})^{n-2}), n>=2
