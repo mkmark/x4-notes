@@ -1,5 +1,53 @@
 # X4 notes
 
+<!-- toc -->
+
+- [objectives](#objectives)
+  * [guideline](#guideline)
+  * [outline](#outline)
+- [general stratagy](#general-stratagy)
+  * [game basic flow](#game-basic-flow)
+  * [bailing](#bailing)
+  * [boarding](#boarding)
+  * [faction reputation fix](#faction-reputation-fix)
+    + [reputation fix for below -10](#reputation-fix-for-below--10)
+    + [reputation fix for >= -9](#reputation-fix-for---9)
+      - [manual way](#manual-way)
+      - [automatic way](#automatic-way)
+  * [drop collection](#drop-collection)
+  * [gate defense](#gate-defense)
+  * [shipyard block](#shipyard-block)
+- [full loop factory](#full-loop-factory)
+  * [workforce](#workforce)
+  * [xml editing](#xml-editing)
+- [terraforming](#terraforming)
+  * [fund start-up](#fund-start-up)
+- [plots](#plots)
+  * [Hatikva's plot](#hatikvas-plot)
+  * [CoH plot](#coh-plot)
+  * [ToA plot](#toa-plot)
+  * [other plots](#other-plots)
+- [best equipments for specific purposes](#best-equipments-for-specific-purposes)
+- [best ships for specific jobs](#best-ships-for-specific-jobs)
+  * [drop collector](#drop-collector)
+  * [reputation trader](#reputation-trader)
+  * [miner](#miner)
+  * [misson/personal ship](#missonpersonal-ship)
+  * [scout](#scout)
+  * [gate defender](#gate-defender)
+  * [personal battle ship](#personal-battle-ship)
+  * [boarder](#boarder)
+  * [builder](#builder)
+  * [sightseeing](#sightseeing)
+  * [XL ship M dock additional M turrets](#xl-ship-m-dock-additional-m-turrets)
+- [modification](#modification)
+  * [sources](#sources)
+  * [numerical target](#numerical-target)
+- [resources](#resources)
+  * [station plans](#station-plans)
+
+<!-- tocstop -->
+
 ## objectives
 
 ### guideline
@@ -213,7 +261,7 @@ see also
 
 - [Terraforming - Notes on/How I completed each project - egosoft.com](https://forum.egosoft.com/viewtopic.php?f=182&t=441523&p=5075536#p5075536)
 
-### start-up funding
+### fund start-up
 
 High school mathematics.
 
