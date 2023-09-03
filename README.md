@@ -5,7 +5,7 @@
 - [objectives](#objectives)
   * [guideline](#guideline)
   * [outline](#outline)
-- [general stratagy](#general-stratagy)
+- [general strategy](#general-strategy)
   * [game basic flow](#game-basic-flow)
   * [bailing](#bailing)
   * [boarding](#boarding)
@@ -35,7 +35,7 @@
   * [misson/personal ship](#missonpersonal-ship)
   * [scout](#scout)
   * [gate defender](#gate-defender)
-  * [personal battle ship](#personal-battle-ship)
+  * [personal battleship](#personal-battleship)
   * [boarder](#boarder)
   * [builder](#builder)
   * [sightseeing](#sightseeing)
@@ -43,6 +43,7 @@
 - [modification](#modification)
   * [sources](#sources)
   * [numerical target](#numerical-target)
+- [naming scheme](#naming-scheme)
 - [resources](#resources)
   * [station plans](#station-plans)
 
@@ -58,7 +59,7 @@ From the most important
 1. make as few irreversible decisions as possible
 1. make as many available options as possible
 1. as much automatic as possible
-1. keep the efficiency as high as possible to alleviate CPU stress
+1. to alleviate CPU stress: build nothing more than necessary, and in the most efficient way
 
 ### outline
 
@@ -69,7 +70,6 @@ From the most important
       - station criminal traffic shooting
     - reputation fix for above -10
       - fast ship trading
-    - Yaki reputation by pushing the plot to the 
 - as many inventory items as available
   - xenon gate drop collection
     - xenon gate defense
@@ -87,8 +87,8 @@ From the most important
 1. start setting up miners (several hours into the game)
 1. start setting up HQ production modules (a day into the game)
 1. set up shipyards blocking ships (a day into the game)
-1. seta, finally (feel one can count this as the end game, about 2 days into the game)
-1. do terraforming
+1. SETA, finally (feel one can count this as the end game, about 2 days into the game)
+1. do terraforming, especailly fund start-up so you now finally have money to buy everything
 
 ### bailing
 
@@ -182,6 +182,7 @@ If not blocked, NPC faction will produce capital ships threatening Xenon or thei
 - pause game right at ship construction 100% finished
 - issue a dock and wait command and remove the undocking command
 - fire/remove the pilot
+- unpause
 
 Occasionally fired/removed pilot may still manage to undock the ship before being fired/removed. You will need to redock the ship (best in person) to the dock. Do not request docking permission, just fly into the intended fabrication bay and the correct docking permission will be auto-granted.
 
@@ -218,7 +219,7 @@ The only potential loss of such a strategy is the inability to utilize the miner
 
 To avoid troublesome planning, I put all my modules (except docking modules) at position 0,0,0 via xml editing. This yields a very clean plan (both in game and in xml), and almost all modules are hidden in the HQ asteroid. I can not measure the exact performance issue caused by z-fighting, but 400 modules there seems not a problem for GTX2080.
 
-The plan is available at `constructionplan/7.xml`.
+The plan is available at `constructionplan`.
 
 The docking piers are put in such a way to allow as many to function as possible. (6 faces of the cube considered)
 
@@ -422,7 +423,7 @@ For example, Paranid plot will unlock BUC reputation which I tend to avoid so I 
 
 see also
 
-- [X4: Foundations Ultimate Weapons Guide](https://www.riotbits.com/x4-foundations-ultimate-weapons-guide-52654/)
+- [Steam Community :: Guide :: [6.20] X4 Ultimate Weapons Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2826705145)
 - [Gearing ships for Out of Sector (OOS) Combat setup (as of 2020)? : X4Foundations](https://www.reddit.com/r/X4Foundations/comments/kjwat5/gearing_ships_for_out_of_sector_oos_combat_setup/)
 
 ## best ships for specific jobs
@@ -496,9 +497,7 @@ A typical Crane Sentinel will mine and sell a full shipload in about 20-25 minut
 
 The logic of choosing cargo over speed is that despite the mining process being mostly bottlenecked by the delivery process, the delivery process is not completely controlled by top travel speed. The rotation after each jump gate, the docking process, and the ware transferring process can not be reduced by faster speed. Now almost all large miners have a similar cargo*speed, then the one with the largest cargo wins. Extra advantages include very good shields and weapons against Kha'ak.
 
-The theory is validated by experiments.
-
-see also
+The theory is validated by experiments, see
 
 - [Initial test data from downsizing miner :: X4: Foundations General Discussions](https://steamcommunity.com/app/392160/discussions/0/3490880386666664982/)
 
@@ -657,7 +656,7 @@ see also
 see also
 
 - [could use tips for where/how to farm parts for mods : X4Foundations](https://www.reddit.com/r/X4Foundations/comments/12eadge/could_use_tips_for_wherehow_to_farm_parts_for_mods/)
-- [What is your favourite Mod Part "Supermarket"? - egosoft.com]https://forum.egosoft.com/viewtopic.php?f=146&t=452304
+- [What is your favourite Mod Part "Supermarket"? - egosoft.com](https://forum.egosoft.com/viewtopic.php?f=146&t=452304)
 
 
 ### numerical target
@@ -702,6 +701,38 @@ see also
     - high rotation thrust
     - high forward thrust
     - high travel thrust
+
+## naming scheme
+
+[.?][M/T/Z][L/M/S][Detail job code] [Ship class name] [00]
+
+- [.?] preceding dot to distinguish between named and unnamed ship
+- [M/T/Z] Military/Transporter/muSeum ship, ensuring M is listed first, then T, finally Z
+- [L/M/S] ship docking class
+- [Ship class name] e.g. Crane (Sentinal)
+- [Ship special job?] e.g. M for Mining, B for boarding (MB), B for building (TB). General purpose ships have an empty job and will show on top of the others
+- [00] two digits sequential code
+
+Ships not managed by player are not named.
+
+example
+
+| name                             | comment                                |
+|----------------------------------|----------------------------------------|
+| .ML Asgard                       | personal Asgard                        |
+| .MLB Asgard                      | Asgard for boarding                    |
+| .MLS Asgard 01                   | Asgard for Static defense              |
+| .MM Katana                       | personal Katana                        |
+| .MM Kurokami 01                  | personal Kurokaimi, 01 ship            |
+| .MM Kurokami 02                  | personal Kurokaimi, 02 ship            |
+| .MMD Katana 01                   | Drop collector, 01 ship                |
+| .MS Moreya                       | personal Moreya                        |
+| .MSS Moreya 01                   | Moreya for Scout, 01 ship              |
+| .TLB Heracles 01                 | Large Builder                          |
+| .TLM Crane (Mineral) Sentinal 01 | Large Miner                            |
+| .TMR Katana                      | Reputation trading ship for Yaki       |
+| .TSR Moreya 01                   | Reputation trading ship                |
+| .ZS Perseus Sentinel             | ship bought in HQ engine research plot |
 
 ## resources
 

@@ -17,3 +17,7 @@ one of each fab, with advanced electronics, field coils, superfluid coolant enou
 ## 7
 
 16 hull parts
+
+## 8
+
+terran stuff and some for terraforming
