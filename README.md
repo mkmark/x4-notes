@@ -44,8 +44,11 @@
   * [sources](#sources)
   * [numerical target](#numerical-target)
 - [naming scheme](#naming-scheme)
+- [rank](#rank)
+  * [trade rank](#trade-rank)
 - [resources](#resources)
   * [station plans](#station-plans)
+- [thoughts](#thoughts)
 
 <!-- tocstop -->
 
@@ -238,7 +241,7 @@ The workforce can be seen as providing 20-50% of the output (at all production s
 The application of workforce on different stages of the pipeline has a great effect on the efficiency in terms of raw material usage. This is a very interesting analog to reallife efficiency boost using the pipeline mass production. The more stages a final product is going through, the more (multiplied!) workforce boost it enjoys. Therefore, using workforce on a Universal production pipeline is far more useful than the Terran or Closed Loop methods. On the other hand, even without workforce, the Universal production pipeline uses the least raw material to produce a final product.
 
 > The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour.
-> —— Adam Smith, An Inquiry Into the Nature and Causes of the Wealth of Nations
+> \- Adam Smith, An Inquiry Into the Nature and Causes of the Wealth of Nations
 
 The downside is that, unlike silicon and ore which will not be consumed when the module is not producing, ice will be consumed to support workfoce continuously. It is fair though, as the employees cannot be fired simply because the factory is not working. It is not fair that the workforce will not shift themselves to those actual producing modules.
 
@@ -739,6 +742,18 @@ example
 | .TSR Moreya 01                   | Reputation trading ship                |
 | .ZS Perseus Sentinel             | ship bought in HQ engine research plot |
 
+## rank
+
+See the following for detailed rank calculation.
+
+[Combat Rank - All Kills by Player's Assets or Personal Kill only? : X4Foundations](https://www.reddit.com/r/X4Foundations/comments/z0i0vo/combat_rank_all_kills_by_players_assets_or/)
+
+### trade rank
+
+Incarcatura Sentinel, with the largest cargo bay, on repeat orders on buying/selling Computronic Substrate, which has the largest value density, on all of the 7 TER/PIO trading stations. Roughly 16M worth of transaction per minute per ship. With 30 of these ships, one needs $100M \times 10000/16M/30/60 = 34.7$ hours to get to the extreme trade rank. Note that these ships lose about 2k credits per minute per ship, so $2K \times 30 \times 60 = 3.6M$ per hour in total, not a big deal though.
+
+I won't bother though.
+
 ## resources
 
 - [Quantum Anomaly](https://www.qsna.eu/x4/tips-and-tricks)
@@ -754,6 +769,9 @@ example
 
 ## thoughts
 
+> The journey is the reward.
+> \- Taoist Saying
+
 X4 has the best economic/war simulation of the entire series, implementing a lot of RTS concepts into the game, but there are still limitations.
 
 In X the cores are always trade, build, fight, think.
@@ -762,7 +780,7 @@ Well, the devs may have found out that if a trading/logistic system is too perfe
 
 The modular building is all fun, but the devs might also have found out that if the building process is too easy, there is nothing left for the players to grind. So they allow modules to be teared down simultaneously, but not the building process. The problem is that, unlike city planning simulations, there is not much to consider when building a space station.
 
-The fight/war simulation is more of an awkward pre-WWII navy simulation focused on battleships, carriers, and destroyers, with fighters being a quite strange role. Since X3, fighters have been able to manage long-distance trips on their own, while in reality, the lack of such ability is the only reason that carriers even exist. In X4, the fighters have even better long-range capability (compared to carriers), rendering it completely obsolete to even have a carrier, thus the pre-WWII claim.
+The fight/war simulation is more of an awkward pre-WWII navy simulation focused on battleships, carriers, and destroyers, with fighters being a quite strange role. Since X3, fighters have been able to manage long-distance trips on their own, while in reality, the lack of such ability is the only reason that carriers even exist. In X4, the fighters have even better long-range capability (compared to carriers), rendering it completely obsolete to even have a carrier, thus the pre-WWII claim. 
 
 The best part is the thinking part, thanks for reading.
 
