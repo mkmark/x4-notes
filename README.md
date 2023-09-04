@@ -18,7 +18,7 @@
   * [gate defense](#gate-defense)
   * [shipyard block](#shipyard-block)
 - [full loop factory](#full-loop-factory)
-  * [workforce](#workforce)
+  * [workforce and building method](#workforce-and-building-method)
   * [xml editing](#xml-editing)
 - [terraforming](#terraforming)
   * [fund start-up](#fund-start-up)
@@ -231,9 +231,14 @@ see also
 
 - [Build drones for wharf. How many? - egosoft.com](https://forum.egosoft.com/viewtopic.php?t=428052)
 
-### workforce
+### workforce and building method
 
 The workforce can be seen as providing 20-50% of the output (at all production stages!) with ice, which is easy to mine and quite abundant.
+
+The application of workforce on different stages of the pipeline has a great effect on the efficiency in terms of raw material usage. This is a very interesting analog to reallife efficiency boost using the pipeline mass production. The more stages a final product is going through, the more (multiplied!) workforce boost it enjoys. Therefore, using workforce on a Universal production pipeline is far more useful than the Terran or Closed Loop methods. On the other hand, even without workforce, the Universal production pipeline uses the least raw material to produce a final product.
+
+> The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour.
+> —— Adam Smith, An Inquiry Into the Nature and Causes of the Wealth of Nations
 
 The downside is that, unlike silicon and ore which will not be consumed when the module is not producing, ice will be consumed to support workfoce continuously. It is fair though, as the employees cannot be fired simply because the factory is not working. It is not fair that the workforce will not shift themselves to those actual producing modules.
 
