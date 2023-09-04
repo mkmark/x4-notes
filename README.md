@@ -46,6 +46,7 @@
 - [naming scheme](#naming-scheme)
 - [rank](#rank)
   * [trade rank](#trade-rank)
+- [summary](#summary)
 - [resources](#resources)
   * [station plans](#station-plans)
 - [thoughts](#thoughts)
@@ -242,6 +243,8 @@ The application of workforce on different stages of the pipeline has a great eff
 
 > The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour.
 > \- Adam Smith, An Inquiry Into the Nature and Causes of the Wealth of Nations
+
+Ironnically the Commonwealth actually suffers from the over divided labour due to the trash logistics. Player built super factory complex solves the logistics problem though.
 
 The downside is that, unlike silicon and ore which will not be consumed when the module is not producing, ice will be consumed to support workfoce continuously. It is fair though, as the employees cannot be fired simply because the factory is not working. It is not fair that the workforce will not shift themselves to those actual producing modules.
 
@@ -754,6 +757,23 @@ Incarcatura Sentinel, with the largest cargo bay, on repeat orders on buying/sel
 
 I won't bother though.
 
+## summary
+
+- a system is built for
+  - no passive credit income, no CPU resources wasted on the sole purpose of generating credits
+  - highly efficient HQ and miners for all production purposes
+  - sustanable passive output of
+    - all wares
+    - items for credits, e.g. programmable field array and spacefly caviar
+    - modification conssumables
+    - basic modifications
+    - exceptional chassis modifications
+  - no logistics, no logistics issues
+  - stable highest faction reputation
+  - highest trading rank
+  - stable faction boundry
+- Erlking, Astrid are acquired
+
 ## resources
 
 - [Quantum Anomaly](https://www.qsna.eu/x4/tips-and-tricks)
@@ -780,7 +800,7 @@ Well, the devs may have found out that if a trading/logistic system is too perfe
 
 The modular building is all fun, but the devs might also have found out that if the building process is too easy, there is nothing left for the players to grind. So they allow modules to be teared down simultaneously, but not the building process. The problem is that, unlike city planning simulations, there is not much to consider when building a space station.
 
-The fight/war simulation is more of an awkward pre-WWII navy simulation focused on battleships, carriers, and destroyers, with fighters being a quite strange role. Since X3, fighters have been able to manage long-distance trips on their own, while in reality, the lack of such ability is the only reason that carriers even exist. In X4, the fighters have even better long-range capability (compared to carriers), rendering it completely obsolete to even have a carrier, thus the pre-WWII claim. 
+The fight/war simulation is more of an awkward pre-WWII navy simulation focused on battleships, destroyers, and fighters, with carriers being a quite strange role. Since X3, fighters have been able to manage long-distance trips on their own, while in reality, the lack of such ability is the only reason that carriers even exist. In X4, the fighters have even better long-range capability (compared to carriers), rendering it completely obsolete to even have a carrier, thus the pre-WWII claim. 
 
 The best part is the thinking part, thanks for reading.
 
