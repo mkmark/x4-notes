@@ -376,7 +376,7 @@ Push until you can dock on the Yaki pirate station so that you can raise the rep
 
 The choice boils down to, whether to put the cloak on a Moreya or a Katana. I have blueprints of both, so nothing special here. Moreya is the fastest S ship that can install a TER engine, and Katana is the fastest M ship that can install a TER engine. Both have distinguished ship paint, and the Katana gets a slightly better one, but this is no important reason. It's better to think from the perspective, of who gets more benefit from such a cloak.
 
-In real life, a high-speed scout does not need a cloak, speed is its best protection, and so is Moreya.
+In real life, a high-speed scout, e.g. SR-71 Blackbird, does not need a cloak, speed is its best protection, and so is Moreya.
 
 The Katana, on the other hand, can achieve things a Moreya cannot do, for example, survive friendly fire when accidentally activating the cloak near allies, and can kill almost any ship with less effort than a Moreya (How do you even kill a battleship with a Moreya?).
 
@@ -751,6 +751,20 @@ example
 
 - [PHQ Megaplex hexagon V4 (30.03.2023) - egosoft.com](https://forum.egosoft.com/viewtopic.php?t=437848)
 - [Drache´s Station Collection - egosoft.com](https://forum.egosoft.com/viewtopic.php?f=195&t=429918)
+
+## thoughts
+
+X4 has the best economic/war simulation of the entire series, implementing a lot of RTS concepts into the game, but there are still limitations.
+
+In X the cores are always trade, build, fight, think.
+
+Well, the devs may have found out that if a trading/logistic system is too perfect, that there is nothing left for the players to accomplish. Might just be the reason why the system is trash. The economic simulation has its problems, that it is almost completely built on the war. No war, no attrition, no requirement. This causes most players to find themselves class-A war criminals later in the game, trying to wage wars, one way or the other, so that the game may continue. The designers tried to implement a terraforming project into the game to manually create requirements but failed to implement a good rewarding mechanism.
+
+The modular building is all fun, but the devs might also have found out that if the building process is too easy, there is nothing left for the players to grind. So they allow modules to be teared down simultaneously, but not the building process. The problem is that, unlike city planning simulations, there is not much to consider when building a space station.
+
+The fight/war simulation is more of an awkward pre-WWII navy simulation focused on battleships, carriers, and destroyers, with fighters being a quite strange role. Since X3, fighters have been able to manage long-distance trips on their own, while in reality, the lack of such ability is the only reason that carriers even exist. In X4, the fighters have even better long-range capability (compared to carriers), rendering it completely obsolete to even have a carrier, thus the pre-WWII claim.
+
+The best part is the thinking part, thanks for reading.
 
 <style>
 h1 {
