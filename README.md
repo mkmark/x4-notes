@@ -674,15 +674,20 @@ see also
       - as an exception, Morning Star IV lets you deploy a lot of satellites, so hunting Prometheus here is easier
       - automatic farming could be less efficient because most of the time these ships are cloaked
 - exceptional mods
+  - Honor Guards (Nemesis) near Apotheosis in Pontifex's Claim have all exceptional mods and respawn regularly when HOP Wharf is supplied
   - initial spawned Prometheus sometimes carries full exceptional mods
   - chasis
-    - all BUC ships can be destroyed at no consequence to harvest exceptional chassis mods, so put some M ships on defense position order with fire authorization set to ruthless, and a drop collector to farm on the same spot
+    - all BUC ships can be destroyed at no consequence to harvest exceptional chassis mods, so put some fast M ships on defense position order with fire authorization set to ruthless, and a drop collector to farm on the same spot
+    - Honor Guards
   - weapon
+    - Honor Guards
     - guild/war missions
   - shield
+    - Honor Guards
     - guild/war missions
     - war missions that reward an L miner guarantee an exceptional shield mod
   - engine
+    - Honor Guards
     - guild/war missions, most often need you to deploy resource probes
       - have ships stationed at the deploying position to facilitate next time's operation, as the location pool is quite limited for these missions
 
@@ -690,6 +695,7 @@ see also
 
 - [could use tips for where/how to farm parts for mods : X4Foundations](https://www.reddit.com/r/X4Foundations/comments/12eadge/could_use_tips_for_wherehow_to_farm_parts_for_mods/)
 - [What is your favourite Mod Part "Supermarket"? - egosoft.com](https://forum.egosoft.com/viewtopic.php?f=146&t=452304)
+- [where to farm exceptional mods :: X4: Foundations General Discussions](https://steamcommunity.com/app/392160/discussions/0/3811787666535480323/)
 
 
 ### numerical target
