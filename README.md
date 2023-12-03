@@ -26,18 +26,20 @@
   * [Hatikva's plot](#hatikvas-plot)
   * [CoH plot](#coh-plot)
   * [ToA plot](#toa-plot)
+  * [PIO plot](#pio-plot)
   * [other plots](#other-plots)
 - [best equipment for specific purposes](#best-equipment-for-specific-purposes)
 - [best ships for specific jobs](#best-ships-for-specific-jobs)
   * [drop collector](#drop-collector)
   * [reputation trader](#reputation-trader)
+  * [trade rank trader, crew/morale trainer](#trade-rank-trader-crewmorale-trainer)
   * [miner](#miner)
   * [misson/personal ship](#missonpersonal-ship)
   * [scout](#scout)
   * [gate defender](#gate-defender)
   * [personal battleship](#personal-battleship)
   * [boarder](#boarder)
-  * [builder](#builder)
+  * [builder, crew/morale trainer](#builder-crewmorale-trainer)
   * [sightseeing](#sightseeing)
   * [XL ship M dock additional M turrets](#xl-ship-m-dock-additional-m-turrets)
 - [modification](#modification)
@@ -46,6 +48,7 @@
 - [naming scheme](#naming-scheme)
 - [rank](#rank)
   * [trade rank](#trade-rank)
+- [pilot skill, crew skill, and morale](#pilot-skill-crew-skill-and-morale)
 - [summary](#summary)
 - [resources](#resources)
   * [station plans](#station-plans)
@@ -402,9 +405,15 @@ The only decision to be made here is whether to side with the twins or against t
 
 I need to finish the plot to get the Astrid, speaking of which is so ugly and not quite useful. A Moreya/Katana can do a better job moving everywhere and be used as a personal ship when required, in comparison the maneuverability of Astrid is too awful to be used personally. The best use might be to quickly fly and dock on a unteleportable station so I can teleport there fast, even then it's a M ship thus too far away from the teleportation room.
 
+However, Astrid is the best ship to move protectyon around, which is quite useful. Tidebreak buys and sells protectyon at a floating price, which means you can repeatively sell it large quantities of protectyon at a higher price and buy it at a lower price.
+
 see also
 
 - [*SPOILERS* TOA Plot Questions *SPOILERS* :: X4: Foundations Spoiler Discussions](https://steamcommunity.com/app/392160/discussions/2/3176733459037505428/)
+
+### PIO plot
+
+I do this plot to unlock Terraforming Tech. No decisions require.
 
 ### other plots
 
@@ -483,6 +492,19 @@ Make no mistake here, any ship, even the starting Elite Vanguard can do the job,
   - engine
     - TER combat
     - basic mod: Reaver
+
+### trade rank trader, crew/morale trainer
+
+This ships can also be used to batch train crew skills and improve morale. I see this as a side effect and not worth particular optimization.
+
+**cargo**
+
+- Incarcatura Sentinel, trade Computronic Substrate
+  - exceptional mod: Nanotube
+  - engine
+    - TER
+      - basic mod: Nudge
+- Astrid, trade Protectyon
 
 ### miner
 
@@ -611,7 +633,7 @@ see also
     - TER engine
       - basic mod: Reaver / exceptional mod: Vikas
 
-### builder
+### builder, crew/morale trainer
 
 **fast, crew**
 
@@ -753,9 +775,22 @@ See the following for detailed rank calculation.
 
 ### trade rank
 
-Incarcatura Sentinel, with the largest cargo bay, on repeat orders on buying/selling Computronic Substrate, which has the largest value density, on all of the 7 TER/PIO trading stations. Roughly 16M worth of transaction per minute per ship. With 30 of these ships, one needs $100M \times 10000/16M/30/60 = 34.7$ hours to get to the extreme trade rank. Note that these ships lose about 2k credits per minute per ship, so $2K \times 30 \times 60 = 3.6M$ per hour in total, not a big deal though.
+Incarcatura Sentinel, with the largest cargo bay, on repeat orders on buying/selling Computronic Substrate, which has the largest value density, on all of the 7 TER/PIO trading stations. Roughly 8M worth of transaction per minute per ship. With 30 of these ships, one needs $100M \times 10000/8M/30/60 = 75$ hours to get to the extreme trade rank. Note that these ships lose about 2k credits per minute per ship, so $2K \times 30 \times 60 = 3.6M$ per hour in total, not a big deal though.
 
-I won't bother though.
+Better, Astrid, on repeat order on buying/selling protectyon to Tidebreak. Roughly 16M worth of transaction per minute per ship, and it even brings some $6M$ profit per hour per ship.
+
+## pilot skill, crew skill, and morale
+
+Morale affects final pilot skill and crew skill, a pilot without 5 star morale cannot be a 5 star pilot. Assign any personal as crew members to a trade rank trader is a great way of improving morale.
+
+- pilot skill
+  - terraform mission
+- engineering (crew) skill
+  - as trade rank trader crew
+  - as builder crew
+- morale
+  - as trade rank trader crew
+  - as builder crew
 
 ## summary
 
