@@ -27,12 +27,15 @@
   * [CoH plot](#coh-plot)
   * [ToA plot](#toa-plot)
   * [PIO plot](#pio-plot)
+  * [existential crisis](#existential-crisis)
   * [other plots](#other-plots)
 - [best equipment for specific purposes](#best-equipment-for-specific-purposes)
 - [best ships for specific jobs](#best-ships-for-specific-jobs)
   * [drop collector](#drop-collector)
+  * [bulk trader](#bulk-trader)
   * [reputation trader](#reputation-trader)
-  * [trade rank trader, crew/morale trainer](#trade-rank-trader-crewmorale-trainer)
+  * [crew/morale trader](#crewmorale-trader)
+  * [trade rank trader](#trade-rank-trader)
   * [miner](#miner)
   * [misson/personal ship](#missonpersonal-ship)
   * [scout](#scout)
@@ -48,6 +51,7 @@
 - [naming scheme](#naming-scheme)
 - [rank](#rank)
   * [trade rank](#trade-rank)
+  * [combat rank](#combat-rank)
 - [pilot skill, crew skill, and morale](#pilot-skill-crew-skill-and-morale)
 - [summary](#summary)
 - [resources](#resources)
@@ -121,6 +125,11 @@ see also
 see also
 
 - [Fast money guide by boarding terran capital ships : X4Foundations](https://www.reddit.com/r/X4Foundations/comments/s08c4t/fast_money_guide_by_boarding_terran_capital_ships/)
+
+notes on Xenon H:
+
+- the ship has a base defense of 1600, and has only 16 crew capacity. This means even for 16 5-star marine, it still bears considerable risk
+- boarding the ship with 16 4-star marine is possible, expect failure / success but with heavy casualties (with only 1 or 2 marines surviving)
 
 ### faction reputation fix
 
@@ -415,6 +424,14 @@ see also
 
 I do this plot to unlock Terraforming Tech. No decisions require.
 
+### existential crisis
+
+1I, 3K, one or more Ravagers, with dozens of Xenon and Khaak fighters spawned in a sector where the player has assets.
+
+One Asgard can handle them all quite easily, the problem is getting there before civilian ships takes casualty.
+
+It brings back the feeling when I owned an Asgard for the first time, and rushing to secure a Xenon gate. Once familiar about the spawn mechanism, however, it soon became a routine.
+
 ### other plots
 
 I put all other plots, together with the remaining part of the CoH plot on hold. These plots tend to have irreversible decisions with little benefit to my goals.
@@ -471,6 +488,40 @@ Large ships collect drops with very slow drones, which is not an option. No ship
 
 Make no mistake here, any ship, even the starting Elite Vanguard can do the job, just very likely to die fast. A non-modded Katana with SPL MK3 is acceptable in the early game.
 
+### bulk trader
+
+**efficiency (cargo, speed)**
+
+Heron E has the largest cargo, Shuyaku Vanguard has significantly faster speed.
+Other ships can be suitable for specific situations. There might not be an all-round candidate.
+However, for a general rule, if the wares to transfer are in large quantities, then ships with large cargo wins.
+The logic is simple, now that all trading ships have similar cargo*speed, but quite large amout of time are spent on travel attack, rotation after each jump, docking, etc., which are time-consuming operations regardless of the speed, thus ships with large cargo has a better overall efficiency.
+
+- Heron E
+  - exceptional mod: Nanotube
+  - engine
+    - TER all-round
+      - exceptional mod: Slingshot
+  - shield
+    - TER L shield MK3
+      - exceptional mod: Traction
+  - turret
+    - ARG flak MK1
+      - basic mod: Slasher
+  - exceptional mod: Tenacity
+- Shuyaku Vanguard
+  - exceptional mod: Nanotube
+  - engine
+    - TER all-round
+      - exceptional mod: Slingshot
+  - shield
+    - TER L shield MK3
+      - exceptional mod: Traction
+  - turret
+    - ARG flak MK1
+      - basic mod: Slasher
+  - exceptional mod: Tenacity
+
 ### reputation trader
 
 **speed**
@@ -491,15 +542,32 @@ Make no mistake here, any ship, even the starting Elite Vanguard can do the job,
   - exceptional mod: Shroud, analog to reallife stealth
   - engine
     - TER combat
-    - basic mod: Reaver
+    - exceptional mod: Slingshot
 
-### trade rank trader, crew/morale trainer
+### crew/morale trader
 
-This ships can also be used to batch train crew skills and improve morale. I see this as a side effect and not worth particular optimization.
+**crew**
+
+Crew skill and moral are improved everytime a ship trades. Use repeated orders on a trading station to fast buy and sell.
+
+- Shark, trade Computronic Substrate for trade rank at the same time
+  - exceptional mod: Nanotube
+  - engine
+      - basic mod: Nudge
+- Shuyaku Vanguard can be a cheap alternative early game
+
+### trade rank trader
+
+Not recommended. Just use crew/morale trader instead, which improves trade rank as a side effect.
 
 **cargo**
 
-- Incarcatura Sentinel, trade Computronic Substrate
+- Heron E, trade Computronic Substrate, Claytronics, etc.
+  - exceptional mod: Slingshot
+  - engine
+    - TER
+      - basic mod: Nudge
+- (pre 7.0) Incarcatura Sentinel, trade Computronic Substrate, Claytronics, etc.
   - exceptional mod: Nanotube
   - engine
     - TER
@@ -510,11 +578,26 @@ This ships can also be used to batch train crew skills and improve morale. I see
 
 **efficiency (cargo, speed)**
 
-- Crane Sentinel
+- Crane E Gas
   - exceptional mod: Nanotube
   - engine
     - TER all-round
-      - basic mod: Reaver
+      - exceptional mod: Slingshot
+  - shield
+    - TER
+      - basic mod: Buckler
+  - turret
+    - TEL/any mining
+      - basic mod: Digger
+    - ARG flak
+      - basic mod: Slasher
+  - 4-5 star pilot
+  - 4-5 star crew
+- Crane Sentinel (Gas pre 7.0, and Mineral all versions)
+  - exceptional mod: Nanotube
+  - engine
+    - TER all-round
+      - exceptional mod: Slingshot
   - shield
     - TER
       - basic mod: Buckler
@@ -528,7 +611,7 @@ This ships can also be used to batch train crew skills and improve morale. I see
 
 A typical Crane Sentinel will mine and sell a full shipload in about 20-25 minutes, which is highly efficient. 15 mineral + 2 gas such miners can support my 480 module HQ with redundancy.
 
-The logic of choosing cargo over speed is that despite the mining process being mostly bottlenecked by the delivery process, the delivery process is not completely controlled by top travel speed. The rotation after each jump gate, the docking process, and the ware transferring process can not be reduced by faster speed. Now almost all large miners have a similar cargo*speed, then the one with the largest cargo wins. Extra advantages include very good shields and weapons against Kha'ak.
+The logic of choosing cargo over speed is that despite the mining process being mostly bottlenecked by the delivery process, the delivery process is not completely controlled by top travel speed. The rotation after each jump gate, travel attack duration, the docking process, and the ware transferring process can not be reduced by faster travel speed. Now almost all large miners have a similar cargo*speed, then the one with the largest cargo wins. Extra advantages include very good shields and weapons against Kha'ak.
 
 The theory is validated by experiments, see
 
@@ -561,7 +644,7 @@ see also
   - exceptional mod: Nanotube
   - engine
     - TER combat
-      - basic mod: Reaver
+      - exceptional mod: Slingshot
 
 ### gate defender
 
@@ -571,7 +654,7 @@ see also
   - exceptional mod: Nanotube
   - engine
     - TER all-round
-      - basic mod: Reaver
+      - exceptional mod: Slingshot
   - shield
     - TER
       - basic mod: Buckler
@@ -627,11 +710,11 @@ see also
   - exceptional mod: Nanotube
   - engine
     - TER
-      - basic mod: Reaver
+      - exceptional mod: Slingshot
 - Asgard
   - exceptional mod: Annihilator
     - TER engine
-      - basic mod: Reaver / exceptional mod: Vikas
+      - exceptional mod: Slingshot / exceptional mod: Vikas
 
 ### builder, crew/morale trainer
 
@@ -641,7 +724,7 @@ see also
   - exceptional mod: Nanotube
   - engine
     - TER
-      - basic mod: Reaver
+      - exceptional mod: Slingshot
 
 ### sightseeing
 
@@ -675,6 +758,7 @@ see also
       - automatic farming could be less efficient because most of the time these ships are cloaked
 - exceptional mods
   - Honor Guards (Nemesis) near Apotheosis in Pontifex's Claim have all exceptional mods and respawn regularly when HOP Wharf is supplied
+    - after 7.0, entire sector police is aggored upon attacked. Be prepared.
   - initial spawned Prometheus sometimes carries full exceptional mods
   - chasis
     - all BUC ships can be destroyed at no consequence to harvest exceptional chassis mods, so put some fast M ships on defense position order with fire authorization set to ruthless, and a drop collector to farm on the same spot
@@ -699,6 +783,8 @@ see also
 
 
 ### numerical target
+
+use OCR for automatic reroll
 
 - chassis
   - Nanotube, every 10 rolls
@@ -729,17 +815,17 @@ see also
   - Annihilator, a lot of rolls
     - rare, and depends...
 - engine
-  - Reaver, every 20 rolls
+  - Reaver, every 20 rolls (Use when there's not enough meaterial to build Slingshot yet)
     - 0.44 travel speed
   - Nudger, every 20 rolls
     - 0.44 forward thrust
-  - Slingshot, every 1000 rolls, good that you don't need to do this very often (only for personal S/M ships)
+  - Slingshot, every > 10000 rolls, good that you don't need to do this very often (only for personal ships)
     - 0.29 forward thrust
     - 0.49 travel thrust
-  - Vikas, a lot lot of rolls (only for personal L/XL ships)
-    - high rotation thrust
-    - high forward thrust
-    - high travel thrust
+    - using auto click and ocr, I burned my entire stash of 18000 Extended Fuel Tank and Nividium Oxide, to prove that 0.2963x0.4973 is indeed about top 0.01% quality
+  - Slingshot, every 20 rolls
+    - eq 0.7 travel speed
+  - Vikas, only for XL ships in need of fast Travel attack, e.g., for boaring other ships.
 
 ## naming scheme
 
@@ -784,6 +870,12 @@ See the following for detailed rank calculation.
 Incarcatura Sentinel, with the largest cargo bay, on repeat orders on buying/selling Computronic Substrate, which has the largest value density, on all of the 7 TER/PIO trading stations. Roughly 8M worth of transaction per minute per ship. With 30 of these ships, one needs $100M \times 10000/8M/30/60 = 75$ hours to get to the extreme trade rank. Note that these ships lose about 2k credits per minute per ship, so $2K \times 30 \times 60 = 3.6M$ per hour in total, not a big deal though.
 
 Better, Astrid, on repeat order on buying/selling protectyon to Tidebreak. Roughly 16M worth of transaction per minute per ship, and it even brings some $6M$ profit per hour per ship.
+
+### combat rank
+
+Build station with a lot of connection modules for SCA (before doing the terraforming for them). This way you get 100 points for each module you destroyed, at no consequences.
+
+I wrote a python script to generate a tube like shape (a 3302 module station, see `constructionplan/combat_rank_tube.xml`) so that I can park a Raptor in the center, enjoying fireworks show while my combat rank rockets up.
 
 ## pilot skill, crew skill, and morale
 

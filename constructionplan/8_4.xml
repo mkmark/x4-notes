@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plans>
+  <plan id="9E9D0D41-B264-46B7-99A3-2F2D2937D63D_1719063997" name="8.4" description="">
+    <patches>
+      <patch extension="ego_dlc_pirate" version="700" name="Tides of Avarice"/>
+      <patch extension="ego_dlc_terran" version="700" name="Cradle of Humanity"/>
+      <patch extension="ego_dlc_boron" version="700" name="Kingdom End"/>
+    </patches>
+    <entry index="1" macro="landmarks_player_hq_01_research_macro" fixed="1"/>
+    <entry index="2" macro="dockarea_arg_m_station_02_hightech_macro" connection="connectionsnap004">
+      <predecessor index="1" connection="connectionsnap002"/>
+      <offset>
+        <position z="-4910.993"/>
+      </offset>
+    </entry>
+    <entry index="3" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="4" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="5" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="6" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="7" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="8" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="9" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="10" macro="storage_tel_l_container_01_macro"/>
+    <entry index="11" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="12" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="13" macro="storage_tel_l_container_01_macro"/>
+    <entry index="14" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="15" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="16" macro="storage_tel_l_container_01_macro"/>
+    <entry index="17" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="18" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="19" macro="storage_tel_l_container_01_macro"/>
+    <entry index="20" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="21" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="22" macro="storage_tel_l_container_01_macro"/>
+    <entry index="23" macro="prod_gen_superfluidcoolant_macro"/>
+    <entry index="24" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="25" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="26" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="27" macro="prod_gen_hullparts_macro"/>
+    <entry index="28" macro="prod_gen_graphene_macro"/>
+    <entry index="29" macro="prod_gen_claytronics_macro"/>
+    <entry index="30" macro="prod_arg_wheat_macro"/>
+    <entry index="31" macro="prod_arg_meat_macro"/>
+    <entry index="32" macro="prod_gen_antimattercells_macro"/>
+    <entry index="33" macro="prod_gen_energycells_macro"/>
+    <entry index="34" macro="prod_gen_microchips_macro"/>
+    <entry index="35" macro="prod_gen_water_macro"/>
+    <entry index="36" macro="prod_gen_spices_macro"/>
+    <entry index="37" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="38" macro="prod_arg_foodrations_macro"/>
+    <entry index="39" macro="welfare_gen_gamblinghall_01_macro"/>
+    <entry index="40" macro="welfare_bor_artacademy_01_macro"/>
+    <entry index="41" macro="welfare_gen_casino_01_macro"/>
+    <entry index="42" macro="hab_arg_l_01_macro"/>
+    <entry index="43" macro="hab_arg_l_01_macro"/>
+    <entry index="44" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="45" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="46" macro="storage_tel_l_container_01_macro"/>
+    <entry index="47" macro="prod_gen_advancedcomposites_macro"/>
+    <entry index="48" macro="prod_gen_dronecomponents_macro"/>
+    <entry index="49" macro="prod_gen_turretcomponents_macro"/>
+    <entry index="50" macro="prod_gen_shieldcomponents_macro"/>
+    <entry index="51" macro="prod_gen_scanningarrays_macro"/>
+    <entry index="52" macro="prod_gen_missilecomponents_macro"/>
+    <entry index="53" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="54" macro="prod_gen_weaponcomponents_macro"/>
+    <entry index="55" macro="prod_gen_smartchips_macro"/>
+    <entry index="56" macro="prod_gen_antimatterconverters_macro"/>
+    <entry index="57" macro="prod_gen_fieldcoils_macro"/>
+    <entry index="58" macro="prod_gen_engineparts_macro"/>
+    <entry index="59" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="60" macro="prod_gen_energycells_macro"/>
+    <entry index="61" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="62" macro="prod_ter_computronicsubstrate_macro"/>
+    <entry index="63" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="64" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="65" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="66" macro="storage_tel_l_container_01_macro"/>
+    <entry index="67" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-4800" y="-2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="68" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-2400" y="-2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="69" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position y="-2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="70" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="2400" y="-2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="71" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="4800" y="-2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="72" macro="prod_gen_energycells_macro"/>
+    <entry index="73" macro="prod_gen_energycells_macro"/>
+    <entry index="74" macro="prod_gen_energycells_macro"/>
+    <entry index="75" macro="prod_gen_energycells_macro"/>
+    <entry index="76" macro="prod_gen_water_macro"/>
+    <entry index="77" macro="prod_gen_superfluidcoolant_macro"/>
+    <entry index="78" macro="prod_gen_graphene_macro"/>
+    <entry index="79" macro="prod_gen_graphene_macro"/>
+    <entry index="80" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="81" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="82" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="83" macro="prod_arg_wheat_macro"/>
+    <entry index="84" macro="prod_gen_spices_macro"/>
+    <entry index="85" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="86" macro="prod_gen_microchips_macro"/>
+    <entry index="87" macro="prod_gen_microchips_macro"/>
+    <entry index="88" macro="prod_gen_microchips_macro"/>
+    <entry index="89" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="90" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="91" macro="prod_arg_foodrations_macro"/>
+    <entry index="92" macro="prod_arg_foodrations_macro"/>
+    <entry index="93" macro="prod_arg_foodrations_macro"/>
+    <entry index="94" macro="prod_arg_foodrations_macro"/>
+    <entry index="95" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="96" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="97" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="98" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="99" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="100" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="101" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="102" macro="hab_arg_l_01_macro"/>
+    <entry index="103" macro="hab_arg_l_01_macro"/>
+    <entry index="104" macro="hab_arg_l_01_macro"/>
+    <entry index="105" macro="hab_arg_l_01_macro"/>
+    <entry index="106" macro="hab_arg_l_01_macro"/>
+    <entry index="107" macro="hab_arg_l_01_macro"/>
+    <entry index="108" macro="hab_arg_l_01_macro"/>
+    <entry index="109" macro="hab_arg_l_01_macro"/>
+    <entry index="110" macro="hab_arg_l_01_macro"/>
+    <entry index="111" macro="hab_arg_l_01_macro"/>
+    <entry index="112" macro="hab_arg_l_01_macro"/>
+    <entry index="113" macro="hab_arg_l_01_macro"/>
+    <entry index="114" macro="hab_arg_l_01_macro"/>
+    <entry index="115" macro="hab_arg_l_01_macro"/>
+    <entry index="116" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="117" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="118" macro="storage_tel_l_container_01_macro"/>
+    <entry index="119" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="120" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="121" macro="storage_tel_l_container_01_macro"/>
+    <entry index="122" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="123" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="124" macro="storage_tel_l_container_01_macro"/>
+    <entry index="125" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="126" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="127" macro="storage_tel_l_container_01_macro"/>
+    <entry index="128" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="129" macro="prod_arg_meat_macro"/>
+    <entry index="130" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="131" macro="prod_gen_microchips_macro"/>
+    <entry index="132" macro="prod_gen_hullparts_macro"/>
+    <entry index="133" macro="prod_gen_hullparts_macro"/>
+    <entry index="134" macro="prod_gen_hullparts_macro"/>
+    <entry index="135" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="136" macro="prod_gen_claytronics_macro"/>
+    <entry index="137" macro="prod_gen_claytronics_macro"/>
+    <entry index="138" macro="hab_arg_l_01_macro"/>
+    <entry index="139" macro="hab_arg_l_01_macro"/>
+    <entry index="140" macro="hab_arg_l_01_macro"/>
+    <entry index="141" macro="hab_arg_l_01_macro"/>
+    <entry index="142" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="143" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="144" macro="storage_tel_l_container_01_macro"/>
+    <entry index="145" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="146" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="147" macro="storage_tel_l_container_01_macro"/>
+    <entry index="148" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="149" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="150" macro="storage_tel_l_container_01_macro"/>
+    <entry index="151" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="152" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="153" macro="storage_tel_l_container_01_macro"/>
+    <entry index="154" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="155" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="156" macro="storage_tel_l_container_01_macro"/>
+    <entry index="157" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="158" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="159" macro="storage_tel_l_container_01_macro"/>
+    <entry index="160" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="161" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="162" macro="storage_tel_l_container_01_macro"/>
+    <entry index="163" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="164" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="165" macro="storage_tel_l_container_01_macro"/>
+    <entry index="166" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="167" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="168" macro="storage_tel_l_container_01_macro"/>
+    <entry index="169" macro="storage_tel_l_container_01_macro"/>
+    <entry index="170" macro="storage_tel_l_container_01_macro"/>
+    <entry index="171" macro="storage_tel_l_container_01_macro"/>
+    <entry index="172" macro="storage_tel_l_container_01_macro"/>
+    <entry index="173" macro="storage_tel_l_container_01_macro"/>
+    <entry index="174" macro="storage_tel_l_container_01_macro"/>
+    <entry index="175" macro="storage_tel_l_container_01_macro"/>
+    <entry index="176" macro="storage_tel_l_container_01_macro"/>
+    <entry index="177" macro="storage_tel_l_container_01_macro"/>
+    <entry index="178" macro="storage_tel_l_container_01_macro"/>
+    <entry index="179" macro="storage_tel_l_container_01_macro"/>
+    <entry index="180" macro="storage_tel_l_container_01_macro"/>
+    <entry index="181" macro="storage_tel_l_container_01_macro"/>
+    <entry index="182" macro="storage_tel_l_container_01_macro"/>
+    <entry index="183" macro="storage_tel_l_container_01_macro"/>
+    <entry index="184" macro="storage_tel_l_container_01_macro"/>
+    <entry index="185" macro="storage_tel_l_container_01_macro"/>
+    <entry index="186" macro="storage_tel_l_container_01_macro"/>
+    <entry index="187" macro="storage_tel_l_container_01_macro"/>
+    <entry index="188" macro="storage_tel_l_container_01_macro"/>
+    <entry index="189" macro="storage_tel_l_container_01_macro"/>
+    <entry index="190" macro="storage_tel_l_container_01_macro"/>
+    <entry index="191" macro="storage_tel_l_container_01_macro"/>
+    <entry index="192" macro="storage_tel_l_container_01_macro"/>
+    <entry index="193" macro="storage_tel_l_container_01_macro"/>
+    <entry index="194" macro="storage_tel_l_container_01_macro"/>
+    <entry index="195" macro="storage_tel_l_container_01_macro"/>
+    <entry index="196" macro="storage_tel_l_container_01_macro"/>
+    <entry index="197" macro="storage_tel_l_container_01_macro"/>
+    <entry index="198" macro="storage_tel_l_container_01_macro"/>
+    <entry index="199" macro="buildmodule_ter_ships_xl_macro">
+      <offset>
+        <position x="7200"/>
+      </offset>
+    </entry>
+    <entry index="200" macro="buildmodule_ter_ships_l_macro">
+      <offset>
+        <position x="5200" y="1200"/>
+      </offset>
+    </entry>
+    <entry index="201" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position z="7400"/>
+      </offset>
+    </entry>
+    <entry index="202" macro="prod_gen_energycells_macro"/>
+    <entry index="203" macro="prod_gen_energycells_macro"/>
+    <entry index="204" macro="prod_gen_energycells_macro"/>
+    <entry index="205" macro="prod_gen_energycells_macro"/>
+    <entry index="206" macro="prod_gen_energycells_macro"/>
+    <entry index="207" macro="prod_gen_energycells_macro"/>
+    <entry index="208" macro="prod_gen_energycells_macro"/>
+    <entry index="209" macro="prod_gen_water_macro"/>
+    <entry index="210" macro="prod_gen_water_macro"/>
+    <entry index="211" macro="prod_gen_water_macro"/>
+    <entry index="212" macro="prod_gen_superfluidcoolant_macro"/>
+    <entry index="213" macro="prod_gen_superfluidcoolant_macro"/>
+    <entry index="214" macro="prod_gen_superfluidcoolant_macro"/>
+    <entry index="215" macro="prod_gen_graphene_macro"/>
+    <entry index="216" macro="prod_gen_graphene_macro"/>
+    <entry index="217" macro="prod_gen_graphene_macro"/>
+    <entry index="218" macro="prod_gen_graphene_macro"/>
+    <entry index="219" macro="prod_gen_graphene_macro"/>
+    <entry index="220" macro="prod_gen_graphene_macro"/>
+    <entry index="221" macro="prod_gen_graphene_macro"/>
+    <entry index="222" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="223" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="224" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="225" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="226" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="227" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="228" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="229" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="230" macro="prod_gen_siliconwafers_macro"/>
+    <entry index="231" macro="prod_arg_meat_macro"/>
+    <entry index="232" macro="prod_arg_meat_macro"/>
+    <entry index="233" macro="prod_arg_meat_macro"/>
+    <entry index="234" macro="prod_arg_wheat_macro"/>
+    <entry index="235" macro="prod_arg_wheat_macro"/>
+    <entry index="236" macro="prod_arg_wheat_macro"/>
+    <entry index="237" macro="prod_arg_wheat_macro"/>
+    <entry index="238" macro="prod_gen_spices_macro"/>
+    <entry index="239" macro="prod_gen_spices_macro"/>
+    <entry index="240" macro="prod_gen_spices_macro"/>
+    <entry index="241" macro="prod_gen_spices_macro"/>
+    <entry index="242" macro="prod_gen_spices_macro"/>
+    <entry index="243" macro="prod_gen_spices_macro"/>
+    <entry index="244" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="245" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="246" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="247" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="248" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="249" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="250" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="251" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="252" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="253" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="254" macro="prod_gen_quantumtubes_macro"/>
+    <entry index="255" macro="prod_gen_microchips_macro"/>
+    <entry index="256" macro="prod_gen_microchips_macro"/>
+    <entry index="257" macro="prod_gen_microchips_macro"/>
+    <entry index="258" macro="prod_gen_microchips_macro"/>
+    <entry index="259" macro="prod_gen_microchips_macro"/>
+    <entry index="260" macro="prod_gen_microchips_macro"/>
+    <entry index="261" macro="prod_gen_microchips_macro"/>
+    <entry index="262" macro="prod_gen_microchips_macro"/>
+    <entry index="263" macro="prod_gen_microchips_macro"/>
+    <entry index="264" macro="prod_gen_microchips_macro"/>
+    <entry index="265" macro="prod_gen_microchips_macro"/>
+    <entry index="266" macro="prod_gen_microchips_macro"/>
+    <entry index="267" macro="prod_gen_microchips_macro"/>
+    <entry index="268" macro="prod_gen_microchips_macro"/>
+    <entry index="269" macro="prod_gen_microchips_macro"/>
+    <entry index="270" macro="prod_gen_microchips_macro"/>
+    <entry index="271" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="272" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="273" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="274" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="275" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="276" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="277" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="278" macro="prod_gen_plasmaconductors_macro"/>
+    <entry index="279" macro="prod_arg_foodrations_macro"/>
+    <entry index="280" macro="prod_arg_foodrations_macro"/>
+    <entry index="281" macro="prod_arg_foodrations_macro"/>
+    <entry index="282" macro="prod_arg_foodrations_macro"/>
+    <entry index="283" macro="prod_arg_foodrations_macro"/>
+    <entry index="284" macro="prod_arg_foodrations_macro"/>
+    <entry index="285" macro="prod_arg_foodrations_macro"/>
+    <entry index="286" macro="prod_arg_foodrations_macro"/>
+    <entry index="287" macro="prod_arg_foodrations_macro"/>
+    <entry index="288" macro="prod_arg_foodrations_macro"/>
+    <entry index="289" macro="prod_arg_foodrations_macro"/>
+    <entry index="290" macro="prod_arg_foodrations_macro"/>
+    <entry index="291" macro="prod_arg_foodrations_macro"/>
+    <entry index="292" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="293" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="294" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="295" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="296" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="297" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="298" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="299" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="300" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="301" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="302" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="303" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="304" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="305" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="306" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="307" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="308" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="309" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="310" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="311" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="312" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="313" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="314" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="315" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="316" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="317" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="318" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="319" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="320" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="321" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="322" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="323" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="324" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="325" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="326" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="327" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="328" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="329" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="330" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="331" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="332" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="333" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="334" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="335" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="336" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="337" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="338" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="339" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="340" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="341" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="342" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="343" macro="prod_gen_advancedelectronics_macro"/>
+    <entry index="344" macro="prod_gen_fieldcoils_macro"/>
+    <entry index="345" macro="prod_gen_fieldcoils_macro"/>
+    <entry index="346" macro="prod_gen_fieldcoils_macro"/>
+    <entry index="347" macro="prod_gen_fieldcoils_macro"/>
+    <entry index="348" macro="prod_gen_fieldcoils_macro"/>
+    <entry index="349" macro="prod_gen_fieldcoils_macro"/>
+    <entry index="350" macro="prod_gen_fieldcoils_macro"/>
+    <entry index="351" macro="hab_arg_l_01_macro"/>
+    <entry index="352" macro="hab_arg_l_01_macro"/>
+    <entry index="353" macro="hab_arg_l_01_macro"/>
+    <entry index="354" macro="hab_arg_l_01_macro"/>
+    <entry index="355" macro="hab_arg_l_01_macro"/>
+    <entry index="356" macro="hab_arg_l_01_macro"/>
+    <entry index="357" macro="hab_arg_l_01_macro"/>
+    <entry index="358" macro="hab_arg_l_01_macro"/>
+    <entry index="359" macro="hab_arg_l_01_macro"/>
+    <entry index="360" macro="hab_arg_l_01_macro"/>
+    <entry index="361" macro="hab_arg_l_01_macro"/>
+    <entry index="362" macro="hab_arg_l_01_macro"/>
+    <entry index="363" macro="hab_arg_l_01_macro"/>
+    <entry index="364" macro="hab_arg_l_01_macro"/>
+    <entry index="365" macro="hab_arg_l_01_macro"/>
+    <entry index="366" macro="hab_arg_l_01_macro"/>
+    <entry index="367" macro="hab_arg_l_01_macro"/>
+    <entry index="368" macro="hab_arg_l_01_macro"/>
+    <entry index="369" macro="hab_arg_l_01_macro"/>
+    <entry index="370" macro="hab_arg_l_01_macro"/>
+    <entry index="371" macro="hab_arg_l_01_macro"/>
+    <entry index="372" macro="hab_arg_l_01_macro"/>
+    <entry index="373" macro="hab_arg_l_01_macro"/>
+    <entry index="374" macro="hab_arg_l_01_macro"/>
+    <entry index="375" macro="hab_arg_l_01_macro"/>
+    <entry index="376" macro="hab_arg_l_01_macro"/>
+    <entry index="377" macro="hab_arg_l_01_macro"/>
+    <entry index="378" macro="hab_arg_l_01_macro"/>
+    <entry index="379" macro="hab_arg_l_01_macro"/>
+    <entry index="380" macro="hab_arg_l_01_macro"/>
+    <entry index="381" macro="hab_arg_l_01_macro"/>
+    <entry index="382" macro="hab_arg_l_01_macro"/>
+    <entry index="383" macro="hab_arg_l_01_macro"/>
+    <entry index="384" macro="hab_arg_l_01_macro"/>
+    <entry index="385" macro="hab_arg_l_01_macro"/>
+    <entry index="386" macro="hab_arg_l_01_macro"/>
+    <entry index="387" macro="hab_arg_l_01_macro"/>
+    <entry index="388" macro="hab_arg_l_01_macro"/>
+    <entry index="389" macro="hab_arg_l_01_macro"/>
+    <entry index="390" macro="hab_arg_l_01_macro"/>
+    <entry index="391" macro="hab_arg_l_01_macro"/>
+    <entry index="392" macro="hab_arg_l_01_macro"/>
+    <entry index="393" macro="hab_arg_l_01_macro"/>
+    <entry index="394" macro="hab_arg_l_01_macro"/>
+    <entry index="395" macro="hab_arg_l_01_macro"/>
+    <entry index="396" macro="hab_arg_l_01_macro"/>
+    <entry index="397" macro="hab_arg_l_01_macro"/>
+    <entry index="398" macro="hab_arg_l_01_macro"/>
+    <entry index="399" macro="hab_arg_l_01_macro"/>
+    <entry index="400" macro="hab_arg_l_01_macro"/>
+    <entry index="401" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-4800" y="2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="402" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-2400" y="2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="403" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position y="2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="404" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="2400" y="2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="405" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="4800" y="2400" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="406" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="407" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="408" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="409" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="410" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="411" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="412" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="413" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="414" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="415" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="416" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="417" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="418" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="419" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="420" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="421" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="422" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="423" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="424" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="425" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="426" macro="storage_tel_l_container_01_macro"/>
+    <entry index="427" macro="storage_tel_l_container_01_macro"/>
+    <entry index="428" macro="storage_tel_l_container_01_macro"/>
+    <entry index="429" macro="storage_tel_l_container_01_macro"/>
+    <entry index="430" macro="storage_tel_l_container_01_macro"/>
+    <entry index="431" macro="storage_tel_l_container_01_macro"/>
+    <entry index="432" macro="storage_tel_l_container_01_macro"/>
+    <entry index="433" macro="storage_tel_l_container_01_macro"/>
+    <entry index="434" macro="storage_tel_l_container_01_macro"/>
+    <entry index="435" macro="storage_tel_l_container_01_macro"/>
+    <entry index="436" macro="storage_tel_l_container_01_macro"/>
+    <entry index="437" macro="storage_tel_l_container_01_macro"/>
+    <entry index="438" macro="storage_tel_l_container_01_macro"/>
+    <entry index="439" macro="storage_tel_l_container_01_macro"/>
+    <entry index="440" macro="storage_tel_l_container_01_macro"/>
+    <entry index="441" macro="storage_tel_l_container_01_macro"/>
+    <entry index="442" macro="storage_tel_l_container_01_macro"/>
+    <entry index="443" macro="storage_tel_l_container_01_macro"/>
+    <entry index="444" macro="storage_tel_l_container_01_macro"/>
+    <entry index="445" macro="storage_tel_l_container_01_macro"/>
+    <entry index="446" macro="storage_tel_l_container_01_macro"/>
+    <entry index="447" macro="storage_tel_l_container_01_macro"/>
+    <entry index="448" macro="storage_tel_l_container_01_macro"/>
+    <entry index="449" macro="storage_tel_l_container_01_macro"/>
+    <entry index="450" macro="storage_tel_l_container_01_macro"/>
+    <entry index="451" macro="storage_tel_l_container_01_macro"/>
+    <entry index="452" macro="storage_tel_l_container_01_macro"/>
+    <entry index="453" macro="storage_tel_l_container_01_macro"/>
+    <entry index="454" macro="storage_tel_l_container_01_macro"/>
+    <entry index="455" macro="storage_tel_l_container_01_macro"/>
+    <entry index="456" macro="prod_gen_energycells_macro"/>
+    <entry index="457" macro="prod_gen_energycells_macro"/>
+    <entry index="458" macro="prod_gen_energycells_macro"/>
+    <entry index="459" macro="prod_gen_energycells_macro"/>
+    <entry index="460" macro="prod_gen_energycells_macro"/>
+    <entry index="461" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="462" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="463" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="464" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="465" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="466" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="467" macro="prod_gen_hullparts_macro"/>
+    <entry index="468" macro="prod_gen_hullparts_macro"/>
+    <entry index="469" macro="prod_gen_hullparts_macro"/>
+    <entry index="470" macro="prod_gen_hullparts_macro"/>
+    <entry index="471" macro="prod_gen_hullparts_macro"/>
+    <entry index="472" macro="prod_gen_hullparts_macro"/>
+    <entry index="473" macro="prod_gen_hullparts_macro"/>
+    <entry index="474" macro="prod_gen_hullparts_macro"/>
+    <entry index="475" macro="prod_gen_hullparts_macro"/>
+    <entry index="476" macro="prod_gen_hullparts_macro"/>
+    <entry index="477" macro="prod_gen_hullparts_macro"/>
+    <entry index="478" macro="prod_gen_hullparts_macro"/>
+    <entry index="479" macro="prod_gen_hullparts_macro"/>
+    <entry index="480" macro="prod_gen_hullparts_macro"/>
+    <entry index="481" macro="prod_gen_hullparts_macro"/>
+    <entry index="482" macro="prod_gen_hullparts_macro"/>
+    <entry index="483" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="484" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="485" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="486" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="487" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="488" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="489" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="490" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="491" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="492" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="493" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="494" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="495" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="496" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="497" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="498" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="499" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="500" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="501" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="502" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="503" macro="storage_tel_l_container_01_macro"/>
+    <entry index="504" macro="storage_tel_l_container_01_macro"/>
+    <entry index="505" macro="storage_tel_l_container_01_macro"/>
+    <entry index="506" macro="storage_tel_l_container_01_macro"/>
+    <entry index="507" macro="storage_tel_l_container_01_macro"/>
+    <entry index="508" macro="storage_tel_l_container_01_macro"/>
+    <entry index="509" macro="storage_tel_l_container_01_macro"/>
+    <entry index="510" macro="storage_tel_l_container_01_macro"/>
+    <entry index="511" macro="storage_tel_l_container_01_macro"/>
+    <entry index="512" macro="storage_tel_l_container_01_macro"/>
+    <entry index="513" macro="storage_tel_l_container_01_macro"/>
+    <entry index="514" macro="storage_tel_l_container_01_macro"/>
+    <entry index="515" macro="storage_tel_l_container_01_macro"/>
+    <entry index="516" macro="storage_tel_l_container_01_macro"/>
+    <entry index="517" macro="storage_tel_l_container_01_macro"/>
+    <entry index="518" macro="storage_tel_l_container_01_macro"/>
+    <entry index="519" macro="storage_tel_l_container_01_macro"/>
+    <entry index="520" macro="storage_tel_l_container_01_macro"/>
+    <entry index="521" macro="storage_tel_l_container_01_macro"/>
+    <entry index="522" macro="storage_tel_l_container_01_macro"/>
+    <entry index="523" macro="storage_tel_l_container_01_macro"/>
+    <entry index="524" macro="storage_tel_l_container_01_macro"/>
+    <entry index="525" macro="storage_tel_l_container_01_macro"/>
+    <entry index="526" macro="storage_tel_l_container_01_macro"/>
+    <entry index="527" macro="storage_tel_l_container_01_macro"/>
+    <entry index="528" macro="storage_tel_l_container_01_macro"/>
+    <entry index="529" macro="storage_tel_l_container_01_macro"/>
+    <entry index="530" macro="storage_tel_l_container_01_macro"/>
+    <entry index="531" macro="storage_tel_l_container_01_macro"/>
+    <entry index="532" macro="storage_tel_l_container_01_macro"/>
+    <entry index="533" macro="storage_tel_l_container_01_macro"/>
+    <entry index="534" macro="storage_tel_l_container_01_macro"/>
+    <entry index="535" macro="storage_tel_l_container_01_macro"/>
+    <entry index="536" macro="storage_tel_l_container_01_macro"/>
+    <entry index="537" macro="storage_tel_l_container_01_macro"/>
+    <entry index="538" macro="storage_tel_l_container_01_macro"/>
+    <entry index="539" macro="storage_tel_l_container_01_macro"/>
+    <entry index="540" macro="storage_tel_l_container_01_macro"/>
+    <entry index="541" macro="storage_tel_l_container_01_macro"/>
+    <entry index="542" macro="storage_tel_l_container_01_macro"/>
+    <entry index="543" macro="prod_gen_energycells_macro"/>
+    <entry index="544" macro="prod_gen_energycells_macro"/>
+    <entry index="545" macro="prod_gen_energycells_macro"/>
+    <entry index="546" macro="prod_gen_energycells_macro"/>
+    <entry index="547" macro="prod_gen_energycells_macro"/>
+    <entry index="548" macro="prod_gen_energycells_macro"/>
+    <entry index="549" macro="prod_gen_energycells_macro"/>
+    <entry index="550" macro="prod_gen_water_macro"/>
+    <entry index="551" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="552" macro="prod_gen_refinedmetals_macro"/>
+    <entry index="553" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="554" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="555" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="556" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="557" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="558" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="559" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="560" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="561" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="562" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="563" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="564" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="565" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="566" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="567" macro="prod_ter_metallicmicrolattice_macro"/>
+    <entry index="568" macro="prod_ter_computronicsubstrate_macro"/>
+    <entry index="569" macro="prod_ter_computronicsubstrate_macro"/>
+    <entry index="570" macro="prod_ter_computronicsubstrate_macro"/>
+    <entry index="571" macro="prod_arg_wheat_macro"/>
+    <entry index="572" macro="prod_gen_spices_macro"/>
+    <entry index="573" macro="prod_gen_scanningarrays_macro"/>
+    <entry index="574" macro="prod_gen_scanningarrays_macro"/>
+    <entry index="575" macro="prod_gen_scanningarrays_macro"/>
+    <entry index="576" macro="prod_gen_advancedcomposites_macro"/>
+    <entry index="577" macro="prod_gen_advancedcomposites_macro"/>
+    <entry index="578" macro="prod_gen_advancedcomposites_macro"/>
+    <entry index="579" macro="prod_gen_engineparts_macro"/>
+    <entry index="580" macro="prod_gen_engineparts_macro"/>
+    <entry index="581" macro="prod_gen_engineparts_macro"/>
+    <entry index="582" macro="prod_gen_engineparts_macro"/>
+    <entry index="583" macro="prod_gen_engineparts_macro"/>
+    <entry index="584" macro="prod_gen_engineparts_macro"/>
+    <entry index="585" macro="prod_gen_engineparts_macro"/>
+    <entry index="586" macro="prod_gen_smartchips_macro"/>
+    <entry index="587" macro="prod_gen_smartchips_macro"/>
+    <entry index="588" macro="prod_gen_smartchips_macro"/>
+    <entry index="589" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="590" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="591" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="592" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="593" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="594" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="595" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="596" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="597" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="598" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="599" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="600" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="601" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="602" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="603" macro="prod_ter_siliconcarbide_macro"/>
+    <entry index="604" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="605" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="606" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="607" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="608" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="609" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="610" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="611" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="612" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="613" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="614" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="615" macro="prod_arg_foodrations_macro"/>
+    <entry index="616" macro="prod_arg_foodrations_macro"/>
+    <entry index="617" macro="prod_arg_foodrations_macro"/>
+    <entry index="618" macro="prod_arg_foodrations_macro"/>
+    <entry index="619" macro="prod_arg_foodrations_macro"/>
+    <entry index="620" macro="prod_arg_foodrations_macro"/>
+    <entry index="621" macro="prod_gen_turretcomponents_macro"/>
+    <entry index="622" macro="prod_gen_turretcomponents_macro"/>
+    <entry index="623" macro="prod_gen_turretcomponents_macro"/>
+    <entry index="624" macro="prod_gen_missilecomponents_macro"/>
+    <entry index="625" macro="prod_gen_missilecomponents_macro"/>
+    <entry index="626" macro="prod_gen_missilecomponents_macro"/>
+    <entry index="627" macro="prod_gen_shieldcomponents_macro"/>
+    <entry index="628" macro="prod_gen_shieldcomponents_macro"/>
+    <entry index="629" macro="prod_gen_shieldcomponents_macro"/>
+    <entry index="630" macro="prod_gen_weaponcomponents_macro"/>
+    <entry index="631" macro="prod_gen_weaponcomponents_macro"/>
+    <entry index="632" macro="prod_gen_weaponcomponents_macro"/>
+    <entry index="633" macro="hab_arg_l_01_macro"/>
+    <entry index="634" macro="hab_arg_l_01_macro"/>
+    <entry index="635" macro="hab_arg_l_01_macro"/>
+    <entry index="636" macro="hab_arg_l_01_macro"/>
+    <entry index="637" macro="hab_arg_l_01_macro"/>
+    <entry index="638" macro="hab_arg_l_01_macro"/>
+    <entry index="639" macro="hab_arg_l_01_macro"/>
+    <entry index="640" macro="hab_arg_l_01_macro"/>
+    <entry index="641" macro="hab_arg_l_01_macro"/>
+    <entry index="642" macro="hab_arg_l_01_macro"/>
+    <entry index="643" macro="hab_arg_l_01_macro"/>
+    <entry index="644" macro="hab_arg_l_01_macro"/>
+    <entry index="645" macro="hab_arg_l_01_macro"/>
+    <entry index="646" macro="hab_arg_l_01_macro"/>
+    <entry index="647" macro="hab_arg_l_01_macro"/>
+    <entry index="648" macro="hab_arg_l_01_macro"/>
+    <entry index="649" macro="hab_arg_l_01_macro"/>
+    <entry index="650" macro="hab_arg_l_01_macro"/>
+    <entry index="651" macro="hab_arg_l_01_macro"/>
+    <entry index="652" macro="hab_arg_l_01_macro"/>
+    <entry index="653" macro="hab_arg_l_01_macro"/>
+    <entry index="654" macro="hab_arg_l_01_macro"/>
+    <entry index="655" macro="hab_arg_l_01_macro"/>
+    <entry index="656" macro="hab_arg_l_01_macro"/>
+    <entry index="657" macro="hab_arg_l_01_macro"/>
+    <entry index="658" macro="hab_arg_l_01_macro"/>
+    <entry index="659" macro="hab_arg_l_01_macro"/>
+    <entry index="660" macro="hab_arg_l_01_macro"/>
+    <entry index="661" macro="hab_arg_l_01_macro"/>
+    <entry index="662" macro="hab_arg_l_01_macro"/>
+    <entry index="663" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position z="6600"/>
+      </offset>
+    </entry>
+    <entry index="664" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position z="5800"/>
+      </offset>
+    </entry>
+    <entry index="665" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position z="5000"/>
+      </offset>
+    </entry>
+    <entry index="666" macro="buildmodule_ter_ships_xl_macro">
+      <offset>
+        <position x="-7200"/>
+      </offset>
+    </entry>
+    <entry index="667" macro="buildmodule_ter_ships_l_macro">
+      <offset>
+        <position x="-5200" y="1200"/>
+      </offset>
+    </entry>
+    <entry index="668" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="669" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="670" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="671" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="672" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="673" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="674" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="675" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="676" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="677" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="678" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="679" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="680" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="681" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="682" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="683" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="684" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="685" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="686" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="687" macro="storage_tel_l_liquid_01_macro"/>
+    <entry index="688" macro="storage_tel_l_container_01_macro"/>
+    <entry index="689" macro="storage_tel_l_container_01_macro"/>
+    <entry index="690" macro="storage_tel_l_container_01_macro"/>
+    <entry index="691" macro="storage_tel_l_container_01_macro"/>
+    <entry index="692" macro="storage_tel_l_container_01_macro"/>
+    <entry index="693" macro="storage_tel_l_container_01_macro"/>
+    <entry index="694" macro="storage_tel_l_container_01_macro"/>
+    <entry index="695" macro="storage_tel_l_container_01_macro"/>
+    <entry index="696" macro="storage_tel_l_container_01_macro"/>
+    <entry index="697" macro="storage_tel_l_container_01_macro"/>
+    <entry index="698" macro="storage_tel_l_container_01_macro"/>
+    <entry index="699" macro="storage_tel_l_container_01_macro"/>
+    <entry index="700" macro="storage_tel_l_container_01_macro"/>
+    <entry index="701" macro="storage_tel_l_container_01_macro"/>
+    <entry index="702" macro="storage_tel_l_container_01_macro"/>
+    <entry index="703" macro="storage_tel_l_container_01_macro"/>
+    <entry index="704" macro="storage_tel_l_container_01_macro"/>
+    <entry index="705" macro="storage_tel_l_container_01_macro"/>
+    <entry index="706" macro="storage_tel_l_container_01_macro"/>
+    <entry index="707" macro="storage_tel_l_container_01_macro"/>
+    <entry index="708" macro="storage_tel_l_container_01_macro"/>
+    <entry index="709" macro="storage_tel_l_container_01_macro"/>
+    <entry index="710" macro="storage_tel_l_container_01_macro"/>
+    <entry index="711" macro="storage_tel_l_container_01_macro"/>
+    <entry index="712" macro="storage_tel_l_container_01_macro"/>
+    <entry index="713" macro="storage_tel_l_container_01_macro"/>
+    <entry index="714" macro="storage_tel_l_container_01_macro"/>
+    <entry index="715" macro="storage_tel_l_container_01_macro"/>
+    <entry index="716" macro="storage_tel_l_container_01_macro"/>
+    <entry index="717" macro="storage_tel_l_container_01_macro"/>
+    <entry index="718" macro="storage_tel_l_container_01_macro"/>
+    <entry index="719" macro="storage_tel_l_container_01_macro"/>
+    <entry index="720" macro="storage_tel_l_container_01_macro"/>
+    <entry index="721" macro="storage_tel_l_container_01_macro"/>
+    <entry index="722" macro="storage_tel_l_container_01_macro"/>
+    <entry index="723" macro="storage_tel_l_container_01_macro"/>
+    <entry index="724" macro="storage_tel_l_container_01_macro"/>
+    <entry index="725" macro="storage_tel_l_container_01_macro"/>
+    <entry index="726" macro="storage_tel_l_container_01_macro"/>
+    <entry index="727" macro="storage_tel_l_container_01_macro"/>
+    <entry index="728" macro="storage_tel_l_container_01_macro"/>
+    <entry index="729" macro="storage_tel_l_container_01_macro"/>
+    <entry index="730" macro="storage_tel_l_container_01_macro"/>
+    <entry index="731" macro="storage_tel_l_container_01_macro"/>
+    <entry index="732" macro="storage_tel_l_container_01_macro"/>
+    <entry index="733" macro="storage_tel_l_container_01_macro"/>
+    <entry index="734" macro="storage_tel_l_container_01_macro"/>
+    <entry index="735" macro="storage_tel_l_container_01_macro"/>
+    <entry index="736" macro="storage_tel_l_container_01_macro"/>
+    <entry index="737" macro="storage_tel_l_container_01_macro"/>
+    <entry index="738" macro="storage_tel_l_container_01_macro"/>
+    <entry index="739" macro="storage_tel_l_container_01_macro"/>
+    <entry index="740" macro="storage_tel_l_container_01_macro"/>
+    <entry index="741" macro="storage_tel_l_container_01_macro"/>
+    <entry index="742" macro="storage_tel_l_container_01_macro"/>
+    <entry index="743" macro="storage_tel_l_container_01_macro"/>
+    <entry index="744" macro="storage_tel_l_container_01_macro"/>
+    <entry index="745" macro="storage_tel_l_container_01_macro"/>
+    <entry index="746" macro="storage_tel_l_container_01_macro"/>
+    <entry index="747" macro="storage_tel_l_container_01_macro"/>
+    <entry index="748" macro="storage_tel_l_container_01_macro"/>
+    <entry index="749" macro="storage_tel_l_container_01_macro"/>
+    <entry index="750" macro="storage_tel_l_container_01_macro"/>
+    <entry index="751" macro="storage_tel_l_container_01_macro"/>
+    <entry index="752" macro="storage_tel_l_container_01_macro"/>
+    <entry index="753" macro="storage_tel_l_container_01_macro"/>
+    <entry index="754" macro="storage_tel_l_container_01_macro"/>
+    <entry index="755" macro="storage_tel_l_container_01_macro"/>
+    <entry index="756" macro="storage_tel_l_container_01_macro"/>
+    <entry index="757" macro="storage_tel_l_container_01_macro"/>
+    <entry index="758" macro="storage_tel_l_container_01_macro"/>
+    <entry index="759" macro="storage_tel_l_container_01_macro"/>
+    <entry index="760" macro="storage_tel_l_container_01_macro"/>
+    <entry index="761" macro="storage_tel_l_container_01_macro"/>
+    <entry index="762" macro="storage_tel_l_container_01_macro"/>
+    <entry index="763" macro="storage_tel_l_container_01_macro"/>
+    <entry index="764" macro="storage_tel_l_container_01_macro"/>
+    <entry index="765" macro="storage_tel_l_container_01_macro"/>
+    <entry index="766" macro="storage_tel_l_container_01_macro"/>
+    <entry index="767" macro="storage_tel_l_container_01_macro"/>
+    <entry index="768" macro="prod_gen_energycells_macro"/>
+    <entry index="769" macro="prod_gen_water_macro"/>
+    <entry index="770" macro="prod_gen_spices_macro"/>
+    <entry index="771" macro="prod_arg_wheat_macro"/>
+    <entry index="772" macro="prod_arg_meat_macro"/>
+    <entry index="773" macro="prod_arg_foodrations_macro"/>
+    <entry index="774" macro="prod_arg_foodrations_macro"/>
+    <entry index="775" macro="prod_arg_foodrations_macro"/>
+    <entry index="776" macro="prod_arg_foodrations_macro"/>
+    <entry index="777" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="778" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="779" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="780" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="781" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="782" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="783" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="784" macro="prod_arg_medicalsupplies_macro"/>
+    <entry index="785" macro="hab_arg_l_01_macro"/>
+    <entry index="786" macro="hab_arg_l_01_macro"/>
+    <entry index="787" macro="hab_arg_l_01_macro"/>
+    <entry index="788" macro="hab_arg_l_01_macro"/>
+    <entry index="789" macro="hab_arg_l_01_macro"/>
+    <entry index="790" macro="hab_arg_l_01_macro"/>
+    <entry index="791" macro="hab_arg_l_01_macro"/>
+    <entry index="792" macro="hab_arg_l_01_macro"/>
+    <entry index="793" macro="hab_arg_l_01_macro"/>
+    <entry index="794" macro="hab_arg_l_01_macro"/>
+    <entry index="795" macro="hab_arg_l_01_macro"/>
+    <entry index="796" macro="hab_arg_l_01_macro"/>
+    <entry index="797" macro="hab_arg_l_01_macro"/>
+    <entry index="798" macro="hab_arg_l_01_macro"/>
+    <entry index="799" macro="hab_arg_l_01_macro"/>
+    <entry index="800" macro="hab_arg_l_01_macro"/>
+    <entry index="801" macro="hab_arg_l_01_macro"/>
+    <entry index="802" macro="hab_arg_l_01_macro"/>
+    <entry index="803" macro="hab_arg_l_01_macro"/>
+    <entry index="804" macro="hab_arg_l_01_macro"/>
+    <entry index="805" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position x="-2400" z="7400"/>
+      </offset>
+    </entry>
+    <entry index="806" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position x="-2400" z="6600"/>
+      </offset>
+    </entry>
+    <entry index="807" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position x="-2400" z="5800"/>
+      </offset>
+    </entry>
+    <entry index="808" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position x="-2400" z="5000"/>
+      </offset>
+    </entry>
+    <entry index="809" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position x="2400" z="7400"/>
+      </offset>
+    </entry>
+    <entry index="810" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position x="2400" z="6600"/>
+      </offset>
+    </entry>
+    <entry index="811" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position x="2400" z="5800"/>
+      </offset>
+    </entry>
+    <entry index="812" macro="buildmodule_ter_ships_m_dockarea_01_macro">
+      <offset>
+        <position x="2400" z="5000"/>
+      </offset>
+    </entry>
+    <entry index="813" macro="buildmodule_ter_ships_l_macro">
+      <offset>
+        <position x="-5200" y="-1200"/>
+      </offset>
+    </entry>
+    <entry index="814" macro="buildmodule_ter_ships_l_macro">
+      <offset>
+        <position x="5200" y="-1200"/>
+      </offset>
+    </entry>
+    <entry index="815" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="816" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="817" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="818" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="819" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="820" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="821" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="822" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="823" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="824" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="825" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="826" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="827" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="828" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="829" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="830" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="831" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="832" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="833" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="834" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="835" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="836" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="837" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="838" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="839" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="840" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="841" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="842" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="843" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="844" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="845" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="846" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="847" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="848" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="849" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="850" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="851" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="852" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="853" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="854" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="855" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="856" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="857" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="858" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="859" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="860" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="861" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="862" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="863" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="864" macro="storage_tel_l_solid_01_macro"/>
+    <entry index="865" macro="prod_gen_dronecomponents_macro"/>
+    <entry index="866" macro="prod_gen_dronecomponents_macro"/>
+    <entry index="867" macro="prod_gen_dronecomponents_macro"/>
+    <entry index="868" macro="prod_gen_antimatterconverters_macro"/>
+    <entry index="869" macro="prod_gen_antimatterconverters_macro"/>
+    <entry index="870" macro="prod_gen_antimatterconverters_macro"/>
+    <entry index="871" macro="storage_tel_l_container_01_macro"/>
+    <entry index="872" macro="storage_tel_l_container_01_macro"/>
+    <entry index="873" macro="storage_tel_l_container_01_macro"/>
+    <entry index="874" macro="storage_tel_l_container_01_macro"/>
+    <entry index="875" macro="storage_tel_l_container_01_macro"/>
+    <entry index="876" macro="storage_tel_l_container_01_macro"/>
+    <entry index="877" macro="storage_tel_l_container_01_macro"/>
+    <entry index="878" macro="storage_tel_l_container_01_macro"/>
+    <entry index="879" macro="storage_tel_l_container_01_macro"/>
+    <entry index="880" macro="storage_tel_l_container_01_macro"/>
+    <entry index="881" macro="storage_tel_l_container_01_macro"/>
+    <entry index="882" macro="storage_tel_l_container_01_macro"/>
+    <entry index="883" macro="storage_tel_l_container_01_macro"/>
+    <entry index="884" macro="storage_tel_l_container_01_macro"/>
+    <entry index="885" macro="storage_tel_l_container_01_macro"/>
+    <entry index="886" macro="storage_tel_l_container_01_macro"/>
+    <entry index="887" macro="storage_tel_l_container_01_macro"/>
+    <entry index="888" macro="storage_tel_l_container_01_macro"/>
+    <entry index="889" macro="storage_tel_l_container_01_macro"/>
+    <entry index="890" macro="storage_tel_l_container_01_macro"/>
+    <entry index="891" macro="storage_tel_l_container_01_macro"/>
+    <entry index="892" macro="storage_tel_l_container_01_macro"/>
+    <entry index="893" macro="storage_tel_l_container_01_macro"/>
+    <entry index="894" macro="storage_tel_l_container_01_macro"/>
+    <entry index="895" macro="storage_tel_l_container_01_macro"/>
+    <entry index="896" macro="storage_tel_l_container_01_macro"/>
+    <entry index="897" macro="storage_tel_l_container_01_macro"/>
+    <entry index="898" macro="storage_tel_l_container_01_macro"/>
+    <entry index="899" macro="storage_tel_l_container_01_macro"/>
+    <entry index="900" macro="storage_tel_l_container_01_macro"/>
+    <entry index="901" macro="storage_tel_l_container_01_macro"/>
+    <entry index="902" macro="storage_tel_l_container_01_macro"/>
+    <entry index="903" macro="storage_tel_l_container_01_macro"/>
+    <entry index="904" macro="storage_tel_l_container_01_macro"/>
+    <entry index="905" macro="storage_tel_l_container_01_macro"/>
+    <entry index="906" macro="storage_tel_l_container_01_macro"/>
+    <entry index="907" macro="storage_tel_l_container_01_macro"/>
+    <entry index="908" macro="storage_tel_l_container_01_macro"/>
+    <entry index="909" macro="storage_tel_l_container_01_macro"/>
+    <entry index="910" macro="storage_tel_l_container_01_macro"/>
+    <entry index="911" macro="storage_tel_l_container_01_macro"/>
+    <entry index="912" macro="storage_tel_l_container_01_macro"/>
+    <entry index="913" macro="storage_tel_l_container_01_macro"/>
+    <entry index="914" macro="storage_tel_l_container_01_macro"/>
+    <entry index="915" macro="storage_tel_l_container_01_macro"/>
+    <entry index="916" macro="storage_tel_l_container_01_macro"/>
+    <entry index="917" macro="storage_tel_l_container_01_macro"/>
+    <entry index="918" macro="storage_tel_l_container_01_macro"/>
+    <entry index="919" macro="storage_tel_l_container_01_macro"/>
+    <entry index="920" macro="storage_tel_l_container_01_macro"/>
+    <entry index="921" macro="storage_tel_l_container_01_macro"/>
+    <entry index="922" macro="storage_tel_l_container_01_macro"/>
+    <entry index="923" macro="storage_tel_l_container_01_macro"/>
+    <entry index="924" macro="storage_tel_l_container_01_macro"/>
+    <entry index="925" macro="storage_tel_l_container_01_macro"/>
+    <entry index="926" macro="storage_tel_l_container_01_macro"/>
+    <entry index="927" macro="storage_tel_l_container_01_macro"/>
+    <entry index="928" macro="storage_tel_l_container_01_macro"/>
+    <entry index="929" macro="storage_tel_l_container_01_macro"/>
+    <entry index="930" macro="storage_tel_l_container_01_macro"/>
+    <entry index="931" macro="storage_tel_l_container_01_macro"/>
+    <entry index="932" macro="storage_tel_l_container_01_macro"/>
+    <entry index="933" macro="storage_tel_l_container_01_macro"/>
+    <entry index="934" macro="storage_tel_l_container_01_macro"/>
+    <entry index="935" macro="storage_tel_l_container_01_macro"/>
+    <entry index="936" macro="storage_tel_l_container_01_macro"/>
+    <entry index="937" macro="storage_tel_l_container_01_macro"/>
+    <entry index="938" macro="storage_tel_l_container_01_macro"/>
+    <entry index="939" macro="storage_tel_l_container_01_macro"/>
+    <entry index="940" macro="storage_tel_l_container_01_macro"/>
+    <entry index="941" macro="storage_tel_l_container_01_macro"/>
+    <entry index="942" macro="storage_tel_l_container_01_macro"/>
+    <entry index="943" macro="storage_tel_l_container_01_macro"/>
+    <entry index="944" macro="storage_tel_l_container_01_macro"/>
+    <entry index="945" macro="storage_tel_l_container_01_macro"/>
+    <entry index="946" macro="storage_tel_l_container_01_macro"/>
+    <entry index="947" macro="storage_tel_l_container_01_macro"/>
+    <entry index="948" macro="storage_tel_l_container_01_macro"/>
+    <entry index="949" macro="storage_tel_l_container_01_macro"/>
+    <entry index="950" macro="storage_tel_l_container_01_macro"/>
+    <entry index="951" macro="storage_tel_l_container_01_macro"/>
+    <entry index="952" macro="storage_tel_l_container_01_macro"/>
+    <entry index="953" macro="storage_tel_l_container_01_macro"/>
+    <entry index="954" macro="storage_tel_l_container_01_macro"/>
+    <entry index="955" macro="storage_tel_l_container_01_macro"/>
+    <entry index="956" macro="storage_tel_l_container_01_macro"/>
+    <entry index="957" macro="storage_tel_l_container_01_macro"/>
+    <entry index="958" macro="storage_tel_l_container_01_macro"/>
+    <entry index="959" macro="storage_tel_l_container_01_macro"/>
+    <entry index="960" macro="storage_tel_l_container_01_macro"/>
+    <entry index="961" macro="storage_tel_l_container_01_macro"/>
+    <entry index="962" macro="storage_tel_l_container_01_macro"/>
+    <entry index="963" macro="storage_tel_l_container_01_macro"/>
+    <entry index="964" macro="storage_tel_l_container_01_macro"/>
+    <entry index="965" macro="storage_tel_l_container_01_macro"/>
+    <entry index="966" macro="storage_tel_l_container_01_macro"/>
+    <entry index="967" macro="storage_tel_l_container_01_macro"/>
+    <entry index="968" macro="storage_tel_l_container_01_macro"/>
+    <entry index="969" macro="storage_tel_l_container_01_macro"/>
+    <entry index="970" macro="storage_tel_l_container_01_macro"/>
+    <entry index="971" macro="storage_tel_l_container_01_macro"/>
+    <entry index="972" macro="storage_tel_l_container_01_macro"/>
+    <entry index="973" macro="storage_tel_l_container_01_macro"/>
+    <entry index="974" macro="storage_tel_l_container_01_macro"/>
+    <entry index="975" macro="storage_tel_l_container_01_macro"/>
+    <entry index="976" macro="storage_tel_l_container_01_macro"/>
+    <entry index="977" macro="storage_tel_l_container_01_macro"/>
+    <entry index="978" macro="storage_tel_l_container_01_macro"/>
+    <entry index="979" macro="storage_tel_l_container_01_macro"/>
+    <entry index="980" macro="storage_tel_l_container_01_macro"/>
+    <entry index="981" macro="storage_tel_l_container_01_macro"/>
+    <entry index="982" macro="storage_tel_l_container_01_macro"/>
+    <entry index="983" macro="storage_tel_l_container_01_macro"/>
+    <entry index="984" macro="storage_tel_l_container_01_macro"/>
+    <entry index="985" macro="storage_tel_l_container_01_macro"/>
+    <entry index="986" macro="storage_tel_l_container_01_macro"/>
+    <entry index="987" macro="storage_tel_l_container_01_macro"/>
+    <entry index="988" macro="storage_tel_l_container_01_macro"/>
+    <entry index="989" macro="storage_tel_l_container_01_macro"/>
+    <entry index="990" macro="storage_tel_l_container_01_macro"/>
+    <entry index="991" macro="storage_tel_l_container_01_macro"/>
+    <entry index="992" macro="storage_tel_l_container_01_macro"/>
+    <entry index="993" macro="storage_tel_l_container_01_macro"/>
+    <entry index="994" macro="storage_tel_l_container_01_macro"/>
+    <entry index="995" macro="storage_tel_l_container_01_macro"/>
+    <entry index="996" macro="storage_tel_l_container_01_macro"/>
+    <entry index="997" macro="storage_tel_l_container_01_macro"/>
+    <entry index="998" macro="storage_tel_l_container_01_macro"/>
+    <entry index="999" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1000" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1001" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1002" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1003" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1004" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1005" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1006" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1007" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1008" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1009" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1010" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1011" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1012" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1013" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1014" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1015" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1016" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1017" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1018" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1019" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1020" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1021" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1022" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1023" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1024" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1025" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1026" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1027" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1028" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1029" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1030" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1031" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1032" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1033" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1034" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1035" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1036" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1037" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1038" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1039" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1040" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1041" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1042" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1043" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1044" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1045" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1046" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1047" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1048" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1049" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1050" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1051" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1052" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1053" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1054" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1055" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1056" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1057" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1058" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1059" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1060" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1061" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1062" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1063" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1064" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1065" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1066" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1067" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1068" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1069" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1070" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1071" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1072" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1073" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1074" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1075" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1076" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1077" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1078" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1079" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1080" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1081" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1082" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1083" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1084" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1085" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1086" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1087" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1088" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1089" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1090" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1091" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1092" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1093" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1094" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1095" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1096" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1097" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1098" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1099" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1100" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1101" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1102" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1103" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1104" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1105" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1106" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1107" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1108" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1109" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1110" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1111" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1112" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1113" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1114" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1115" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1116" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1117" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1118" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1119" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1120" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1121" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1122" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1123" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1124" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1125" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1126" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1127" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1128" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1129" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1130" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1131" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1132" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1133" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1134" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1135" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1136" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1137" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1138" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1139" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1140" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1141" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1142" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1143" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1144" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1145" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1146" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1147" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1148" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1149" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1150" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1151" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1152" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1153" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1154" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1155" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1156" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1157" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1158" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1159" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1160" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1161" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1162" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1163" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1164" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1165" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1166" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1167" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1168" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1169" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1170" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1171" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1172" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1173" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1174" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1175" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1176" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1177" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1178" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1179" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1180" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1181" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1182" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1183" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1184" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1185" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1186" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1187" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1188" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1189" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1190" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1191" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1192" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1193" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1194" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1195" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1196" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1197" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1198" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1199" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1200" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1201" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1202" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1203" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1204" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1205" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1206" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1207" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1208" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1209" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1210" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1211" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1212" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1213" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1214" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1215" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1216" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1217" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1218" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1219" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1220" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1221" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1222" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1223" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1224" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1225" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1226" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1227" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1228" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1229" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1230" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1231" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1232" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1233" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1234" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1235" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1236" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1237" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1238" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1239" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1240" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1241" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1242" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1243" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1244" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1245" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1246" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1247" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1248" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1249" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1250" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1251" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1252" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1253" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1254" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1255" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1256" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1257" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1258" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1259" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1260" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1261" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1262" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1263" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1264" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1265" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1266" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1267" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1268" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1269" macro="storage_tel_l_container_01_macro"/>
+    <entry index="1270" macro="storage_tel_l_container_01_macro"/>
+    <entry index="401" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-4800" y="-4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="402" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-2400" y="-4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="403" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position y="-4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="404" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="2400" y="-4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="405" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="4800" y="-4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="401" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-4800" y="4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="402" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="-2400" y="4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="403" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position y="4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="404" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="2400" y="4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+    <entry index="405" macro="pier_ter_harbor_02_macro">
+      <offset>
+        <position x="4800" y="4800" z="8000"/>
+        <rotation yaw="90"/>
+      </offset>
+    </entry>
+  </plan>
+</plans>
